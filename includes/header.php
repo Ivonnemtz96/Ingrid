@@ -233,11 +233,11 @@
                 </div>
             </div>
             <div class="reservation-btn d-lg-none d-flex">
-                <a href="reservation.html" class="primary-btn4 btn-md">Contactar</a>
+                <a href="/contacto" class="primary-btn4 btn-md">Contactar</a>
             </div>
         </div>
         <div class="nav-right d-flex jsutify-content-end align-items-center">
-            <a href="reservation.html" class="primary-btn4 btn-md">
+            <a href="/contacto" class="primary-btn4 btn-md">
                 Contacto
             </a>
             <div class="sidebar-button mobile-menu-btn ">
