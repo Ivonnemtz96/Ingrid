@@ -799,10 +799,10 @@ body.tt-magic-cursor #magic-cursor {
   font-size: 1.125rem;
   font-weight: 500;
   color: var(--white);
-  background-color: var(--primary-color1);
+  background-color: #e2a79d;
   border-radius: 50px;
   border: 1px solid;
-  border-color: var(--primary-color1);
+  border-color: #e2a79d;
   display: inline-block;
   z-index: 2;
   transition: 0.3s ease all;
@@ -846,11 +846,11 @@ body.tt-magic-cursor #magic-cursor {
 .primary-btn5 {
   font-size: 1.125rem;
   font-weight: 500;
-  color: var(--primary-color1);
+  color: #e2a79d;
   background-color: transparent;
   border-radius: 50px;
   border: 1px solid;
-  border-color: var(--primary-color1);
+  border-color: #e2a79d;
   display: inline-block;
   z-index: 2;
   transition: 0.3s ease all;
@@ -870,7 +870,7 @@ body.tt-magic-cursor #magic-cursor {
   bottom: 0;
   opacity: 0;
   content: "";
-  background-color: var(--primary-color1);
+  background-color: #e2a79d;
   z-index: -1;
 }
 .primary-btn5:hover {
@@ -1035,7 +1035,7 @@ body.tt-magic-cursor #magic-cursor {
 .section-title span {
   font-size: 1.125rem;
   font-weight: 400;
-  color: var(--primary-color1);
+  color: #e2a79d;
   line-height: 1.625rem;
   font-family: var(--font-Jost);
   display: inline-block;
@@ -1066,7 +1066,7 @@ body.tt-magic-cursor #magic-cursor {
 .section-title3 span {
   font-size: 1.125rem;
   font-weight: 500;
-  color: var(--primary-color1);
+  color: #e2a79d;
   line-height: 1.625rem;
   font-family: var(--font-Jost);
   display: inline-block;
@@ -13385,4 +13385,38 @@ footer .footer-btm .privacy-policy p a:hover {
   font-weight: 400;
   font-size: 18px;
   font-family: var(--font-Jost);
+}
+/* Custom */
+.btn-slider {
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: #e2a79d;
+  background-color: #fff;
+  border-radius: 50px;
+  border: 1px solid;
+  border-color: #fff;
+  display: inline-block;
+  z-index: 2;
+  transition: 0.3s ease all;
+  position: relative;
+  overflow: hidden;
+}
+.btn-slider:hover {
+  color: #fff;
+  border-color: #fff;
+  background-color: #e2a79d;
+}
+.btn-slider::before {
+  position: absolute;
+  top: 0;
+  content: "";
+  bottom: 0;
+  background-color: #e2a79d;
+  z-index: -1;
+}
+.btn-slider:hover::before {
+  transition: 0.5s all ease;
+  left: 0;
+  right: 0;
+  opacity: 1;
 }

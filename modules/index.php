@@ -19,7 +19,7 @@
                         <p>It is a long established fact that a reader
                             will be distracted by the readable content
                             of a page.</p>
-                        <a class="primary-btn5 btn-md2" href="about.html"><i class="bi
+                        <a class="primary-btn5 btn-md2 btn-slider" href="about.html"><i class="bi
                                         bi-arrow-up-right-circle"></i>Discover
                             More</a>
                     </div>
@@ -47,7 +47,7 @@
                         <p>It is a long established fact that a reader
                             will be distracted by the readable content
                             of a page.</p>
-                        <a class="primary-btn5 btn-md2" href="about.html"><i class="bi
+                        <a class="primary-btn5 btn-md2 btn-slider" href="about.html"><i class="bi
                                         bi-arrow-up-right-circle"></i>Discover
                             More</a>
                     </div>
@@ -75,7 +75,7 @@
                         <p>It is a long established fact that a reader
                             will be distracted by the readable content
                             of a page.</p>
-                        <a class="primary-btn5 btn-md2" href="about.html"><i class="bi
+                        <a class="primary-btn5 btn-md2 btn-slider" href="about.html"><i class="bi
                                         bi-arrow-up-right-circle"></i>Discover
                             More</a>
                     </div>
@@ -205,9 +205,9 @@
     </div>
     <div class="about-right">
         <div class="section-title">
-            <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">About to
-                Restho<img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"></span>
-            <h2>Come to Our Restaurant, Ready Your Food.</h2>
+            <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"> Sobre la Dra.
+                Ingrid<img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"></span>
+            <h2>Ginecóloga y Bióloga de la Reproducción.</h2>
             <p>It has survived not only five centuries, but also the
                 leap into electronic typesetting, remaining essentially
                 unchanged. It was popularised in the 1960s with the
@@ -223,8 +223,8 @@
                         <img src="assets/images/icon/h2-about1.svg" alt="">
                     </div>
                     <div class="features-content">
-                        <h4>Pure Fresh Food.</h4>
-                        <p>We are serve different type of fresh food.</p>
+                        <h4>Ginecología</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quo.</p>
                     </div>
                 </li>
                 <li>
@@ -232,8 +232,8 @@
                         <img src="assets/images/icon/h2-about2.svg" alt="">
                     </div>
                     <div class="features-content">
-                        <h4>Experties Chef.</h4>
-                        <p>We are serve different type of fresh food.</p>
+                        <h4>Obstetricia</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quo.</p>
                     </div>
                 </li>
             </ul>
@@ -249,12 +249,16 @@
         <div class="row d-flex justify-content-center mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">Our New
-                        Item<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
-                            alt="sub-title-vec"></span>
-                    <h2>Restho New Item List</h2>
-                    <p>Various versions have evolved over the years,
-                        sometimes on purpose.</p>
+                    <span>
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">
+                        Tu salud en manos de la experta
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">
+                    </span>
+                    <h2>Nuestros servicios</h2>
+                    <p>
+                        Various versions have evolved over the years,
+                        sometimes on purpose.
+                    </p>
                 </div>
             </div>
         </div>
@@ -270,10 +274,15 @@
                                 </div>
                             </div>
                             <div class="reguler-items-content">
-                                <h3><a href="shop-details.html">Prawn
-                                        Fried</a></h3>
-                                <p>It is a long established fact that a
-                                    reader will be distracted.</p>
+                                <h3>
+                                    <a href="shop-details.html">
+                                        Consulta ginecológica
+                                    </a>
+                                </h3>
+                                <p>
+                                    It is a long established fact that a
+                                    reader will be distracted.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -286,8 +295,11 @@
                                 </div>
                             </div>
                             <div class="reguler-items-content">
-                                <h3><a href="shop-details.html">Prawn
-                                        with Noodles</a></h3>
+                                <h3>
+                                    <a href="shop-details.html">
+                                        Embarazo
+                                    </a>
+                                </h3>
                                 <p>It is a long established fact that a
                                     reader will be distracted.</p>
                             </div>
@@ -302,8 +314,71 @@
                                 </div>
                             </div>
                             <div class="reguler-items-content">
-                                <h3><a href="shop-details.html">Soup
-                                        with Egg</a></h3>
+                                <h3>
+                                    <a href="shop-details.html">
+                                        Infertilidad
+                                    </a>
+                                </h3>
+                                <p>It is a long established fact that a
+                                    reader will be distracted.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="">
+                                <div class="price">
+                                    <h5>$32</h5>
+                                </div>
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="shop-details.html">
+                                        Menopausia
+                                    </a>
+                                </h3>
+                                <p>It is a long established fact that a
+                                    reader will be distracted.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="">
+                                <div class="price">
+                                    <h5>$32</h5>
+                                </div>
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="shop-details.html">
+                                        Cesárea
+                                    </a>
+                                </h3>
+                                <p>It is a long established fact that a
+                                    reader will be distracted.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="">
+                                <div class="price">
+                                    <h5>$32</h5>
+                                </div>
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="shop-details.html">
+                                        Parto
+                                    </a>
+                                </h3>
                                 <p>It is a long established fact that a
                                     reader will be distracted.</p>
                             </div>
@@ -463,10 +538,12 @@
                     mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">Gallery
-                        Store<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
-                            alt="sub-title-vec"></span>
-                    <h2>Our Special Gallery</h2>
+                    <span>
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">
+                        Resultados comprobados
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">
+                    </span>
+                    <h2>Nuestra galería</h2>
                 </div>
             </div>
         </div>
@@ -568,7 +645,7 @@
 </div>
 
 
-<div class="h2-best-chef mb-120">
+<div hidden class="h2-best-chef mb-120">
     <div class="container">
         <div class="row d-flex align-items-center justify-content-center
                     mb-40">
@@ -718,7 +795,7 @@
 </div>
 
 
-<div class="h2-blog-area mb-120">
+<div hidden class="h2-blog-area mb-120">
     <div class="container">
         <div class="row d-flex align-items-center justify-content-center
                     mb-40">
@@ -793,6 +870,147 @@
                             <a href="blog-details.html"><span>Read More</span><span><i
                                         class="bi bi-arrow-right"></i></span></a>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="home3-testimonial mb-120">
+    <div class="container">
+        <div class="row justify-content-center mb-45">
+            <div class="col-lg-8">
+                <div class="section-title3 text-center">
+                    <span>
+                        <img class="left-vec" src="assets/images/icon/h3-sub-title-vec.svg" alt="" />Testimonios<img
+                            class="right-vec" src="assets/images/icon/h3-sub-title-vec.svg" alt="" /></span>
+                    <h2>¿Qué opinan los clientes?</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-50">
+            <div class="swiper home3-testimonial-slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="testimonial-wrap">
+                            <div class="testimonial-content">
+                                <div class="quoat-icon">
+                                    <img src="assets/images/icon/Comma.svg" alt="Comma" />
+                                </div>
+                                <p>
+                                    If you are going to use a passage of Lorem Ipsum, you need
+                                    to be sure there isn't anything passage need to be sure
+                                    embarrass.
+                                </p>
+                            </div>
+                            <div class="testi-author-area">
+                                <div class="author-img">
+                                    <img src="assets/images/bg/h3-testi-03.png" alt="h3-testi-03" />
+                                </div>
+                                <div class="name-review">
+                                    <h5>Mr. Jacobs Jack</h5>
+                                    <ul>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial-wrap">
+                            <div class="testimonial-content">
+                                <div class="quoat-icon">
+                                    <img src="assets/images/icon/Comma.svg" alt="Comma" />
+                                </div>
+                                <p>
+                                    If you are going to use a passage of Lorem Ipsum, you need
+                                    to be sure there isn't anything passage need to be sure
+                                    embarrass.
+                                </p>
+                            </div>
+                            <div class="testi-author-area">
+                                <div class="author-img">
+                                    <img src="assets/images/bg/h3-testi-01.png" alt="h3-testi-03" />
+                                </div>
+                                <div class="name-review">
+                                    <h5>Mr. Willium Jacobs</h5>
+                                    <ul>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial-wrap">
+                            <div class="testimonial-content">
+                                <div class="quoat-icon">
+                                    <img src="assets/images/icon/Comma.svg" alt="Comma" />
+                                </div>
+                                <p>
+                                    If you are going to use a passage of Lorem Ipsum, you need
+                                    to be sure there isn't anything passage need to be sure
+                                    embarrass.
+                                </p>
+                            </div>
+                            <div class="testi-author-area">
+                                <div class="author-img">
+                                    <img src="assets/images/bg/h3-testi-02.png" alt="h3-testi-03" />
+                                </div>
+                                <div class="name-review">
+                                    <h5>Mrs. Angelina Juli</h5>
+                                    <ul>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="slider-btn">
+                    <div class="prev-btn-4">
+                        <i class="bi bi-arrow-left-short"></i>
+                    </div>
+                    <div class="next-btn-4">
+                        <i class="bi bi-arrow-right-short"></i>
                     </div>
                 </div>
             </div>
