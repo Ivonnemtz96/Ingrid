@@ -1,9 +1,9 @@
 <div class="breadcrumb-section">
     <div class="breadcrumb-left-vec">
-        <img src="assets/images/icon/breadcumb-left-vec.svg" alt="breadcumb-left-vec" />
+        <img src="/assets/images/icon/breadcumb-left-vec.svg" alt="breadcumb-left-vec" />
     </div>
     <div class="breadcrumb-right-vec">
-        <img src="assets/images/icon/breadcumb-right-vec.svg" alt="breadcumb-right-vec" />
+        <img src="/assets/images/icon/breadcumb-right-vec.svg" alt="breadcumb-right-vec" />
     </div>
     <div class="container">
         <div class="row d-flex justify-content-center align-items-center">
@@ -40,144 +40,144 @@
         </div>
         <div class="row grid g-4">
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item food">
-                <a href="assets/images/bg/masonary-big-01.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-01.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-01.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-01.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item privateevent">
-                <a href="assets/images/bg/masonary-big-02.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-02.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-02.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-02.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item interior">
-                <a href="assets/images/bg/masonary-big-03.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-03.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-03.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-03.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item eatingplace">
-                <a href="assets/images/bg/masonary-big-05.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-05.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-05.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-05.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item traditions">
-                <a href="assets/images/bg/masonary-big-04.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-04.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-04.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-04.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item food">
-                <a href="assets/images/bg/masonary-big-06.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-06.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-06.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-06.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item privateevent">
-                <a href="assets/images/bg/masonary-big-08.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-08.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-08.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-08.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item interior">
-                <a href="assets/images/bg/masonary-big-07.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-07.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-07.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-07.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item eatingplace">
-                <a href="assets/images/bg/masonary-big-09.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-09.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-09.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-09.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item traditions">
-                <a href="assets/images/bg/masonary-big-10.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-10.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-10.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-10.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item privateevent">
-                <a href="assets/images/bg/masonary-big-12.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-12.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-12.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-12.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item interior">
-                <a href="assets/images/bg/masonary-big-11.png" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-11.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/MASONNERY-11.png" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-11.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
-                                <img src="assets/images/icon/Zoom.svg" alt="" />
+                                <img src="/assets/images/icon/Zoom.svg" alt="" />
                             </div>
                         </div>
                     </div>

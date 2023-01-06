@@ -27,13 +27,13 @@
     <div class="container-fluid d-flex justify-content-between
                 align-items-center">
         <div class="header-logo">
-            <a href="index.html"><img alt="image" class="img-fluid" src="assets/images/header2-logo.svg"></a>
+            <a href="/"><img alt="image" class="img-fluid" src="/assets/images/header2-logo.svg"></a>
         </div>
         <div class="main-menu">
             <div class="mobile-logo-area d-lg-none d-flex
                         justify-content-between align-items-center">
                 <div class="mobile-logo-wrap">
-                    <a href="index.html"><img alt="image" src="assets/images/header1-logo.svg"></a>
+                    <a href="/"><img alt="image" src="/assets/images/header1-logo.svg"></a>
                 </div>
                 <div class="menu-close-btn">
                     <i style="color:#e2a79d !important;" class="bi bi-x-lg text-white"></i>
@@ -50,10 +50,10 @@
                         <li><a href="index3.html">Home Three</a></li>
                     </ul>
                 </li> -->
-                <li><a href="about.html">Inicio</a></li>
+                <li><a href="/">Inicio</a></li>
                 <li><a href="about.html">Sobre mí</a></li>
                 <li><a href="about.html">Servicios</a></li>
-                <li><a href="about.html">Galería</a></li>
+                <li><a href="/galeria">Galería</a></li>
                 <li><a href="about.html">¿Por qué elegirme?</a></li>
                 <!-- <li class="menu-item-has-children">
                     <a href="#">Menu</a><i class="bi bi-plus
