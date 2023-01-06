@@ -8,12 +8,12 @@
     <div class="container">
         <div class="row d-flex justify-content-center align-items-center">
             <div class="col-lg-12">
-                <h2 class="breadcrumb-title">Contact Us</h2>
+                <h2 class="breadcrumb-title">¿Tienes alguna duda?</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb d-flex">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item"><a href="/">Inicio</a></li>
                         <li class="breadcrumb-item active" aria-current="page">
-                            Contact Us
+                            Contáctame
                         </li>
                     </ol>
                 </nav>
@@ -25,7 +25,7 @@
 <div class="contact-page pt-120">
     <div class="container-fluid">
         <div class="row justify-content-center g-4">
-            <div class="col-xxl-6 col-xl-4 col-lg-5 col-md-6 col-sm-8">
+            <div class="col-md-7 col-sm-8">
                 <div class="contact-wrap">
                     <div class="contact-img">
                         <img src="/assets/images/bg/contact-img-01.png" alt="contact-img-01" />
@@ -63,7 +63,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xxl-6 col-xl-4 col-lg-5 col-md-6 col-sm-8">
+            <!-- <div class="col-xxl-6 col-xl-4 col-lg-5 col-md-6 col-sm-8">
                 <div class="contact-wrap">
                     <div class="contact-img">
                         <img src="/assets/images/bg/contact-img-02.png" alt="contact-img-02" />
@@ -100,7 +100,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
