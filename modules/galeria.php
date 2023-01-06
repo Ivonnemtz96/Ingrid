@@ -8,12 +8,12 @@
     <div class="container">
         <div class="row d-flex justify-content-center align-items-center">
             <div class="col-lg-12">
-                <h2 class="breadcrumb-title">Mesonary Gallery</h2>
+                <h2 class="breadcrumb-title">Galería</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb d-flex">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item"><a href="/">Inicio</a></li>
                         <li class="breadcrumb-item active" aria-current="page">
-                            Mesonary Gallery
+                            Galería
                         </li>
                     </ol>
                 </nav>
@@ -24,7 +24,7 @@
 
 <div class="masonary-gallery-area pt-120 mb-120">
     <div class="container">
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-lg-12 mb--70">
                 <div class="filters filter-button-group">
                     <ul class="d-flex justify-content-center flex-wrap">
@@ -37,7 +37,7 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="row grid g-4">
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item food">
                 <a href="/assets/images/bg/masonary-big-01.png" data-fancybox="gallery" class="gallery2-img">
@@ -184,12 +184,12 @@
                 </a>
             </div>
         </div>
-        <div class="row pt-60">
+        <!-- <div class="row pt-60">
             <div class="col-lg-12 d-flex justify-content-center">
                 <div class="load-more-btn">
                     <a class="primary-btn3 btn-md2" href="#">Load More</a>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </div>

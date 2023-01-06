@@ -7991,7 +7991,7 @@ footer .footer-btm .privacy-policy p a:hover {
   color: var(--primary-color1);
 }
 .breadcrumb-section nav ol li.active {
-  color: var(--primary-color1);
+  color: #e2a79d;
   position: relative;
   margin-left: 35px;
 }
