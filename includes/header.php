@@ -36,7 +36,7 @@
                     <a href="index.html"><img alt="image" src="assets/images/header1-logo.svg"></a>
                 </div>
                 <div class="menu-close-btn">
-                    <i class="bi bi-x-lg text-white"></i>
+                    <i style="color:#e2a79d !important;" class="bi bi-x-lg text-white"></i>
                 </div>
             </div>
             <ul class="menu-list">

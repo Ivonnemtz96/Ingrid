@@ -2079,7 +2079,7 @@ header.style-2 .main-menu ul > li a {
 }
 @media (max-width: 991px) {
   header.style-2 .main-menu ul > li a {
-    color: var(--white);
+    color: #e2a79d;
   }
 }
 header.style-2 .main-menu ul > li a:hover {
@@ -2234,7 +2234,7 @@ header.style-2 .main-menu ul li.menu-item-has-children > i {
     z-index: 99999;
     height: 100%;
     overflow: auto;
-    background: var(--title-color-dark);
+    background: #fff;
     transform: translateX(-100%);
     transition: transform 0.3s ease-in;
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.03);
