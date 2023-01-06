@@ -4,19 +4,17 @@
             <div class="col-lg-5 col-md-5 d-flex align-items-center
                         justify-content-md-start justify-content-center">
                 <div class="open-time">
-                    <p><span>Opening Hour:</span> 9.00 am to 10.00 pm</p>
+                    <p><span>Lun-Vie:</span> 9:40 am a 12:00 pm | <span>Sab:</span> 9:00 am a 3:00 pm</p>
                 </div>
             </div>
             <div class="col-lg-7 col-md-7 d-flex justify-content-end">
                 <div class="contact-info">
                     <ul>
                         <li><a
-                                href="https://demo.egenslab.com/cdn-cgi/l/email-protection#3950575f56795c41585449555c175a5654"><i
-                                    class="bi bi-envelope"></i> <span class="__cf_email__"
-                                    data-cfemail="88e1e6eee7c8edf0e9e5f8e4eda6ebe7e5">[email&#160;protected]</span></a>
+                                href="mailto:dra.quintero2022@gmail.com"><i
+                                    class="bi bi-envelope"></i> <span class="__cf_email__">dra.quintero2022@gmail.com</span></a>
                         </li>
-                        <li><a><i class="bi bi-geo-alt"></i>Road-01,
-                                Block-B, West London City</a></li>
+                        <li><a><i class="bi bi-geo-alt"></i>Av. Leona Vicario 26, Cabo San Lucas.</a></li>
                     </ul>
                 </div>
             </div>
