@@ -40,8 +40,8 @@
                 </div>
             </div>
             <ul class="menu-list">
-                <li class="menu-item-has-children active">
-                    <a href="#" class="drop-down">Home</a><i class="bi
+                <!-- <li class="menu-item-has-children active">
+                    <a href="#" class="drop-down">Inicio</a><i class="bi
                                 bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
                         <li><a href="index.html">Home One</a></li>
@@ -49,9 +49,13 @@
                                 Two</a></li>
                         <li><a href="index3.html">Home Three</a></li>
                     </ul>
-                </li>
-                <li><a href="about.html">About</a></li>
-                <li class="menu-item-has-children">
+                </li> -->
+                <li><a href="about.html">Inicio</a></li>
+                <li><a href="about.html">Sobre mí</a></li>
+                <li><a href="about.html">Servicios</a></li>
+                <li><a href="about.html">Galería</a></li>
+                <li><a href="about.html">¿Por qué elegirme?</a></li>
+                <!-- <li class="menu-item-has-children">
                     <a href="#">Menu</a><i class="bi bi-plus
                                 dropdown-icon"></i>
                     <ul class="sub-menu">
@@ -114,8 +118,8 @@
                         <li><a href="blog-standard.html">Blog Standard</a></li>
                         <li><a href="blog-details.html">Blog Details</a></li>
                     </ul>
-                </li>
-                <li><a href="contact.html">Contact</a></li>
+                </li> -->
+                <!-- <li><a href="contact.html">Contact</a></li> -->
             </ul>
             <div class="hotline d-lg-none d-flex mb-30">
                 <div class="hotline-icon">
@@ -224,19 +228,18 @@
                     </svg>
                 </div>
                 <div class="hotline-info">
-                    <span>Call Now</span>
-                    <h6><a href="tel:+998-8776345">+998-8776345</a></h6>
+                    <span>Llama ahora</span>
+                    <h6><a href="tel:+526241328278">624 132 8278</a></h6>
                 </div>
             </div>
             <div class="reservation-btn d-lg-none d-flex">
-                <a href="reservation.html" class="primary-btn4 btn-md">Find
-                    Reservation</a>
+                <a href="reservation.html" class="primary-btn4 btn-md">Contactar</a>
             </div>
         </div>
-        <div class="nav-right d-flex jsutify-content-end
-                    align-items-center">
-            <a href="reservation.html" class="primary-btn4 btn-md">Find
-                Reservation</a>
+        <div class="nav-right d-flex jsutify-content-end align-items-center">
+            <a href="reservation.html" class="primary-btn4 btn-md">
+                Contacto
+            </a>
             <div class="sidebar-button mobile-menu-btn ">
                 <i class="bi bi-list"></i>
             </div>
