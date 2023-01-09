@@ -1,4 +1,4 @@
-<div class="banner-section2">
+<div class="banner-section2 mb-120">
     <div class="banner-vector">
         <img class="pagination-bg" src="assets/images/icon/h2-slider-paginatin-bg.svg" alt="">
         <img class="rect-shape1" src="assets/images/icon/h2-banner-rect-shape.svg" alt="">
@@ -26,9 +26,9 @@
                     <div class="banner-right">
                         <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img1.png"
                             alt="h2-banner-img1">
-                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img3.png"
+                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img22.png"
                             alt="h2-banner-img3">
-                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img2.png"
+                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img11.png"
                             alt="h2-banner-img2">
                         <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img4.png"
                             alt="h2-banner-img4">
@@ -58,7 +58,7 @@
                             alt="h2-banner-img3">
                         <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img22.png"
                             alt="h2-banner-img2">
-                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img44.png"
+                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img444.png"
                             alt="h2-banner-img4">
                     </div>
                 </div>
@@ -80,13 +80,13 @@
                             More</a>
                     </div>
                     <div class="banner-right">
-                        <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img111.png"
+                        <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img22.png"
                             alt="h2-banner-img1">
-                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img333.png"
+                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img1.png"
                             alt="h2-banner-img3">
-                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img222.png"
+                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img11.png"
                             alt="h2-banner-img2">
-                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img444.png"
+                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img44.png"
                             alt="h2-banner-img4">
                     </div>
                 </div>
@@ -97,7 +97,7 @@
 </div>
 
 
-<div class="h2-product-area pt-120 pb-120">
+<div hidden class="h2-product-area pt-120 pb-120 mt-100">
     <div class="swiper h2-product-slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
@@ -238,8 +238,10 @@
                 </li>
             </ul>
         </div>
-        <a class="primary-btn5 btn-md2" href="about.html"><i class="bi
-                        bi-arrow-up-right-circle"></i>Discover More</a>
+        <a class="primary-btn5 btn-md2" href="/galeria">
+            <i class="bi bi-arrow-up-right-circle"></i>
+           Ver galería
+        </a>
     </div>
 </div>
 
@@ -269,9 +271,7 @@
                         <div class="reguler-items-wrap">
                             <div class="item-img">
                                 <img class="img-fluid" src="assets/images/bg/h2-regular-items11.png" alt="">
-                                <div class="price">
-                                    <h5>$32</h5>
-                                </div>
+                                
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -289,10 +289,8 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/h2-regular-items12.png" alt="">
-                                <div class="price">
-                                    <h5>$32</h5>
-                                </div>
+                                <img class="img-fluid" src="assets/images/bg/1.png" alt="">
+                                
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -308,10 +306,8 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="">
-                                <div class="price">
-                                    <h5>$32</h5>
-                                </div>
+                                <img class="img-fluid" src="assets/images/bg/2.png" alt="">
+                                
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -329,9 +325,7 @@
                         <div class="reguler-items-wrap">
                             <div class="item-img">
                                 <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="">
-                                <div class="price">
-                                    <h5>$32</h5>
-                                </div>
+                                
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -348,10 +342,8 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="">
-                                <div class="price">
-                                    <h5>$32</h5>
-                                </div>
+                                <img class="img-fluid" src="assets/images/bg/3.png" alt="">
+                                
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -368,10 +360,8 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="">
-                                <div class="price">
-                                    <h5>$32</h5>
-                                </div>
+                                <img class="img-fluid" src="assets/images/bg/4.png" alt="">
+                                
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -400,88 +390,85 @@
 
 
 <div class="home1-introduction-area pt-120 mb-120" id="porque">
-      <div class="container-lg container-fluid">
+    <div class="container-lg container-fluid">
         <div class="row mb-40">
-          <div class="col-lg-12">
-            <div class="section-title">
-              <span>
-                <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
-                ¿Por qué elegirme?
-                  <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"/>
-            </span>
-              <h2>La especialista que te guiará en el proceso </h2>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="container-fluid">
-        <div class="row gy-5">
-          <div class="col-lg-4">
-            <div class="into-left-img magnetic-wrap">
-              <img
-                class="img-fluid magnetic-item"
-                src="assets/images/bg/h1-intro-left-img.png"
-                alt="h1-intro-left-img"
-              />
-            </div>
-          </div>
-          <div class="col-lg-8">
-            <div class="our-mission">
-              <div class="icon">
-                <img src="assets/images/icon/mission.svg" alt="" />
-                <h4>Misión</h4>
-              </div>
-              <div class="description">
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto maxime eius, commodi fugit odio exercitationem voluptatum repellat perferendis ipsam delectus voluptates quo voluptatem nesciunt labore harum autem voluptas porro. Illo dolorem praesentium deleniti, necessitatibus illum veniam incidunt modi nostrum pariatur!
-                </p>
-              </div>
-            </div>
-            <div class="intro-right">
-              <div class="features-author">
-                <div class="intro-features">
-                  <ul>
-                    <li><i class="bi bi-check-circle"></i>Control de embarazo.</li>
-                    <li><i class="bi bi-check-circle"></i>Diágnostico de embarazo.</li>
-                    <li>
-                      <i class="bi bi-check-circle"></i>Consulta prenatal.
-                    </li>
-                  </ul>
-                  <ul>
-                    <li><i class="bi bi-check-circle"></i>Parto y cesárea.</li>
-                    <li><i class="bi bi-check-circle"></i>Ultrasonido.</li>
-                    <li><i class="bi bi-check-circle"></i>Consulta de fertilidad.</li>
-                  </ul>
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <span>
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        ¿Por qué elegirme?
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                    </span>
+                    <h2>La especialista que te guiará en el proceso </h2>
                 </div>
-                <div class="author-area">
-                  <div class="author-content">
-                    <p>
-                      “Dale vida a tu plan de formar una familia.”
-                    </p>
-                  </div>
-                  <div class="author-img-name">
-                    <div class="author-img">
-                      <img src="assets/images/bg/h1-intro-author.png" alt="" />
-                    </div>
-                    <div class="author-name">
-                      <h4>Dra. Ingrid Quintero</h4>
-                      <span>Bióloga de la Reproducción</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="intro-right-img magnetic-wrap">
-                <img
-                  class="img-fluid magnetic-item"
-                  src="assets/images/bg/h1-intro-right-img.png"
-                  alt="h1-intro-right-img"
-                />
-              </div>
             </div>
-          </div>
         </div>
-      </div>
     </div>
+    <div class="container-fluid">
+        <div class="row gy-5">
+            <div class="col-lg-4">
+                <div class="into-left-img magnetic-wrap">
+                    <img class="img-fluid magnetic-item" src="assets/images/bg/h1-intro-left-img.jpg"
+                        alt="h1-intro-left-img" />
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="our-mission">
+                    <div class="icon">
+                        <img src="assets/images/icon/mission.svg" alt="" />
+                        <h4>Misión</h4>
+                    </div>
+                    <div class="description">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto maxime eius, commodi
+                            fugit odio exercitationem voluptatum repellat perferendis ipsam delectus voluptates quo
+                            voluptatem nesciunt labore harum autem voluptas porro. Illo dolorem praesentium deleniti,
+                            necessitatibus illum veniam incidunt modi nostrum pariatur!
+                        </p>
+                    </div>
+                </div>
+                <div class="intro-right">
+                    <div class="features-author">
+                        <div class="intro-features">
+                            <ul>
+                                <li><i class="bi bi-check-circle"></i>Control de embarazo.</li>
+                                <li><i class="bi bi-check-circle"></i>Diágnostico de embarazo.</li>
+                                <li>
+                                    <i class="bi bi-check-circle"></i>Consulta prenatal.
+                                </li>
+                            </ul>
+                            <ul>
+                                <li><i class="bi bi-check-circle"></i>Parto y cesárea.</li>
+                                <li><i class="bi bi-check-circle"></i>Ultrasonido.</li>
+                                <li><i class="bi bi-check-circle"></i>Consulta de fertilidad.</li>
+                            </ul>
+                        </div>
+                        <div class="author-area">
+                            <div class="author-content">
+                                <p>
+                                    “Dale vida a tu plan de formar una familia.”
+                                </p>
+                            </div>
+                            <div class="author-img-name">
+                                <div class="author-img">
+                                    <img src="assets/images/bg/h1-intro-author.png" alt="" />
+                                </div>
+                                <div class="author-name">
+                                    <h4>Dra. Ingrid Quintero</h4>
+                                    <span>Bióloga de la Reproducción</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="intro-right-img magnetic-wrap">
+                        <img class="img-fluid magnetic-item" src="assets/images/bg/h1-intro-right-img.jpg"
+                            alt="h1-intro-right-img" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div hidden class="h2-special-gallery mb-120">
     <div class="container">
         <div class="row d-flex align-items-center justify-content-center
