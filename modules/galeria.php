@@ -184,12 +184,12 @@
                 </a>
             </div>
         </div>
-        <!-- <div class="row pt-60">
+        <!-- <div-- class="row pt-60">
             <div class="col-lg-12 d-flex justify-content-center">
                 <div class="load-more-btn">
                     <a class="primary-btn3 btn-md2" href="#">Load More</a>
                 </div>
             </div>
-        </div> -->
+        </div-->
     </div>
 </div>

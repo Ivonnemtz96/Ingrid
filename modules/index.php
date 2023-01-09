@@ -193,7 +193,7 @@
 </div>
 
 
-<div class="h2-about-area pb-120">
+<div class="h2-about-area pb-120" id="acercade">
     <div class="about-left2">
         <img class="img-fluid" src="assets/images/bg/h2-about-img-full.png" alt="h2-about-img-full">
     </div>
@@ -244,7 +244,7 @@
 </div>
 
 
-<div class="h2-reguler-item mb-120">
+<div class="h2-reguler-item mb-120" id="servicios">
     <div class="container">
         <div class="row d-flex justify-content-center mb-40">
             <div class="col-lg-8">
@@ -399,140 +399,90 @@
 </div>
 
 
-<div class="home2-food-items mb-120">
-    <div class="container">
-        <div class="row d-flex align-items-center justify-content-center
-                    mb-40 g-3">
-            <div class="col-lg-8">
-                <div class="section-title">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">Menu
-                        List<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
-                            alt="sub-title-vec"></span>
-                    <h2>Find Your Food Item</h2>
-                </div>
+<div class="home1-introduction-area pt-120 mb-120" id="porque">
+      <div class="container-lg container-fluid">
+        <div class="row mb-40">
+          <div class="col-lg-12">
+            <div class="section-title">
+              <span>
+                <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                ¿Por qué elegirme?
+                  <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"/>
+            </span>
+              <h2>La especialista que te guiará en el proceso </h2>
             </div>
-            <div class="col-lg-4 text-lg-end mb-sm-25">
-                <a class="primary-btn5 btn-md2" href="menu2.html"><i class="bi bi-arrow-up-right-circle"></i>View
-                    More</a>
-            </div>
+          </div>
         </div>
-        <div class="row g-4">
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="food-items2-wrap">
-                    <div class="food-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-food-item-1.png" alt="h2-food-item-1">
-                        <div class="batch">
-                            <a>Lanch</a>
-                        </div>
-                        <div class="pric-tag">
-                            <span>$45</span>
-                        </div>
-                    </div>
-                    <div class="food-content">
-                        <h3><a href="shop-details.html">Prawn with
-                                Noodles</a></h3>
-                        <p>It is a long established fact that a reader
-                            will be distracted.</p>
-                    </div>
-                </div>
+      </div>
+      <div class="container-fluid">
+        <div class="row gy-5">
+          <div class="col-lg-4">
+            <div class="into-left-img magnetic-wrap">
+              <img
+                class="img-fluid magnetic-item"
+                src="assets/images/bg/h1-intro-left-img.png"
+                alt="h1-intro-left-img"
+              />
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="food-items2-wrap">
-                    <div class="food-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-food-item-2.png" alt="h2-food-item-1">
-                        <div class="batch">
-                            <a>Lanch</a>
-                        </div>
-                        <div class="pric-tag">
-                            <span>$30</span>
-                        </div>
-                    </div>
-                    <div class="food-content">
-                        <h3><a href="shop-details.html">Chicken Leg Fry</a></h3>
-                        <p>It is a long established fact that a reader
-                            will be distracted.</p>
-                    </div>
-                </div>
+          </div>
+          <div class="col-lg-8">
+            <div class="our-mission">
+              <div class="icon">
+                <img src="assets/images/icon/mission.svg" alt="" />
+                <h4>Misión</h4>
+              </div>
+              <div class="description">
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto maxime eius, commodi fugit odio exercitationem voluptatum repellat perferendis ipsam delectus voluptates quo voluptatem nesciunt labore harum autem voluptas porro. Illo dolorem praesentium deleniti, necessitatibus illum veniam incidunt modi nostrum pariatur!
+                </p>
+              </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="food-items2-wrap">
-                    <div class="food-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-food-item-3.png" alt="h2-food-item-1">
-                        <div class="batch">
-                            <a>Breakfast</a>
-                        </div>
-                        <div class="pric-tag">
-                            <span>$10 </span>
-                        </div>
-                    </div>
-                    <div class="food-content">
-                        <h3><a href="shop-details.html">Golden Coffee</a></h3>
-                        <p>It is a long established fact that a reader
-                            will be distracted.</p>
-                    </div>
+            <div class="intro-right">
+              <div class="features-author">
+                <div class="intro-features">
+                  <ul>
+                    <li><i class="bi bi-check-circle"></i>Control de embarazo.</li>
+                    <li><i class="bi bi-check-circle"></i>Diágnostico de embarazo.</li>
+                    <li>
+                      <i class="bi bi-check-circle"></i>Consulta prenatal.
+                    </li>
+                  </ul>
+                  <ul>
+                    <li><i class="bi bi-check-circle"></i>Parto y cesárea.</li>
+                    <li><i class="bi bi-check-circle"></i>Ultrasonido.</li>
+                    <li><i class="bi bi-check-circle"></i>Consulta de fertilidad.</li>
+                  </ul>
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="food-items2-wrap">
-                    <div class="food-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-food-item-4.png" alt="h2-food-item-1">
-                        <div class="batch">
-                            <a>Dinner</a>
-                        </div>
-                        <div class="pric-tag">
-                            <span>$50</span>
-                        </div>
+                <div class="author-area">
+                  <div class="author-content">
+                    <p>
+                      “Dale vida a tu plan de formar una familia.”
+                    </p>
+                  </div>
+                  <div class="author-img-name">
+                    <div class="author-img">
+                      <img src="assets/images/bg/h1-intro-author.png" alt="" />
                     </div>
-                    <div class="food-content">
-                        <h3><a href="shop-details.html">Full Chicken</a></h3>
-                        <p>It is a long established fact that a reader
-                            will be distracted.</p>
+                    <div class="author-name">
+                      <h4>Dra. Ingrid Quintero</h4>
+                      <span>Bióloga de la Reproducción</span>
                     </div>
+                  </div>
                 </div>
+              </div>
+              <div class="intro-right-img magnetic-wrap">
+                <img
+                  class="img-fluid magnetic-item"
+                  src="assets/images/bg/h1-intro-right-img.png"
+                  alt="h1-intro-right-img"
+                />
+              </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="food-items2-wrap">
-                    <div class="food-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-food-item-5.png" alt="h2-food-item-1">
-                        <div class="batch">
-                            <a>Breskfast</a>
-                        </div>
-                        <div class="pric-tag">
-                            <span>$41</span>
-                        </div>
-                    </div>
-                    <div class="food-content">
-                        <h3><a href="shop-details.html">Mutton Kabab</a></h3>
-                        <p>It is a long established fact that a reader
-                            will be distracted.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="food-items2-wrap">
-                    <div class="food-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-food-item-6.png" alt="h2-food-item-1">
-                        <div class="batch">
-                            <a>Lanch</a>
-                        </div>
-                        <div class="pric-tag">
-                            <span>$15</span>
-                        </div>
-                    </div>
-                    <div class="food-content">
-                        <h3><a href="shop-details.html">Burger with
-                                Drinks</a></h3>
-                        <p>It is a long established fact that a reader
-                            will be distracted.</p>
-                    </div>
-                </div>
-            </div>
+          </div>
         </div>
+      </div>
     </div>
-</div>
-
-
-<div class="h2-special-gallery mb-120">
+<div hidden class="h2-special-gallery mb-120">
     <div class="container">
         <div class="row d-flex align-items-center justify-content-center
                     mb-40">
@@ -716,7 +666,7 @@
 </div>
 
 
-<div class="h2-reservarion-area mb-120">
+<div hidden class="h2-reservarion-area mb-120">
     <div class="bg-vector">
         <img class="img-fluid" src="assets/images/bg/h2-reservation-1.png" alt="">
     </div>

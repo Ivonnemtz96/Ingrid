@@ -51,10 +51,10 @@
                     </ul>
                 </li> -->
                 <li><a href="/">Inicio</a></li>
-                <li><a href="about.html">Sobre mí</a></li>
-                <li><a href="about.html">Servicios</a></li>
+                <li><a href="/#acercade">Sobre mí</a></li>
+                <li><a href="/#servicios">Servicios</a></li>
+                <li><a href="/#porque">¿Por qué elegirme?</a></li>
                 <li><a href="/galeria">Galería</a></li>
-                <li><a href="about.html">¿Por qué elegirme?</a></li>
                 <!-- <li class="menu-item-has-children">
                     <a href="#">Menu</a><i class="bi bi-plus
                                 dropdown-icon"></i>
