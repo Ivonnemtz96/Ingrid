@@ -3461,7 +3461,7 @@ header.style-3 .main-menu ul li.menu-item-has-children > i {
 .banner-section2 .banner-wrapper .banner-content span {
   font-size: 1.125rem;
   font-weight: 400;
-  color: var(--primary-color1);
+  color: #fff;
   line-height: 1.625rem;
   font-family: var(--font-Jost);
   display: inline-block;
@@ -5657,7 +5657,7 @@ footer .footer-btm .privacy-policy p a:hover {
 }
 .h2-reguler-item {
   background-image: linear-gradient(rgba(9, 22, 29, 0.8), rgba(9, 22, 29, 0.8)),
-    url(../images/bg/h2-regular-items-bg.png);
+    url(../images/bg/h2-regular-items-bg.webp);
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -7918,7 +7918,7 @@ footer .footer-btm .privacy-policy p a:hover {
   z-index: 9;
   display: flex;
   align-items: center;
-  background-image: url(../images/bg/bredcumb-bg.png);
+  background-image: url(../images/bg/bredcumb-bg.webp);
   background-size: cover;
   padding: 260px 0 140px;
 }
@@ -7930,7 +7930,7 @@ footer .footer-btm .privacy-policy p a:hover {
       rgba(0, 0, 0, 0) 101.78%
     ),
     #09161d;
-  opacity: 0.8;
+  opacity: 0.2;
   position: absolute;
   left: 0;
   top: 0;
@@ -9238,7 +9238,7 @@ footer .footer-btm .privacy-policy p a:hover {
   align-items: center;
   background: linear-gradient(
     359.58deg,
-    #002133 0.39%,
+    #e2a79d 0.39%,
     rgba(0, 33, 51, 0) 51.47%
   );
   border-radius: 10px;
@@ -11521,7 +11521,7 @@ footer .footer-btm .privacy-policy p a:hover {
 .contact-form form .form-group button {
   width: 100%;
   border-radius: 10px 0;
-  background-color: var(--primary-color1);
+  background-color: #e2a79d;
   font-size: 1.125rem;
   font-weight: 500;
   color: var(--white);
@@ -11550,7 +11550,7 @@ footer .footer-btm .privacy-policy p a:hover {
   z-index: -1;
 }
 .contact-form form .form-group button:hover {
-  color: var(--primary-color1);
+  color: #e2a79d;
 }
 .contact-form form .form-group button:hover i::before {
   content: "\f134";
