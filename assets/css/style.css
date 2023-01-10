@@ -3602,7 +3602,7 @@ header.style-3 .main-menu ul li.menu-item-has-children > i {
   width: 14px;
   border-radius: 2px;
   transform: rotate(-45deg);
-  background-color: var(--primary-color1);
+  background-color: #000;
   opacity: 0.5;
   position: relative;
 }
@@ -3610,7 +3610,7 @@ header.style-3 .main-menu ul li.menu-item-has-children > i {
   content: "";
   height: 20px;
   width: 20px;
-  border: 1px solid #bf9444;
+  border: 1px solid #000;
   border-radius: 2px;
   position: absolute;
   left: -3px;
