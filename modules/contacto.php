@@ -25,21 +25,21 @@
 <div class="contact-page pt-120">
     <div class="container-fluid">
         <div class="row justify-content-center g-4">
-            <div class="col-md-7 col-sm-8">
+            <div class="col-md-6 col-sm-8">
                 <div class="contact-wrap">
                     <div class="contact-img">
-                        <img src="/assets/images/bg/contact-img-01.png" alt="contact-img-01" />
+                        <img src="/assets/images/bg/contact-img-01.jpg" alt="contact-img-01" />
                     </div>
                     <div class="contact-content">
-                        <h3>NewYork Branch</h3>
+                        <h3>Cabo San Lucas
+                        </h3>
                         <ul>
                             <li>
                                 <div class="icon">
                                     <img src="/assets/images/icon/location.svg" alt="location" />
                                 </div>
                                 <div class="content">
-                                    <a>Mirpur DOHS, House-167/170,<br />
-                                        Road No-02, Avenue -01</a>
+                                    <a href="https://goo.gl/maps/wW5FzLfEeHMrm3YC6">Av. Leona Vicario 26, <br> Downtown, Juárez, 23460</a>
                                 </div>
                             </li>
                             <li>
@@ -47,7 +47,7 @@
                                     <img src="/assets/images/icon/phone.svg" alt="phone" />
                                 </div>
                                 <div class="content">
-                                    <a href="#">+990-7782200</a>
+                                    <a href="tel:+526241328278">624 132 8278</a>
                                 </div>
                             </li>
                             <li>
@@ -55,8 +55,7 @@
                                     <img src="/assets/images/icon/envlope.svg" alt="envlope" />
                                 </div>
                                 <div class="content">
-                                    <a href="#"><span class="__cf_email__"
-                                            data-cfemail="d1b8bfb7be91b4a9b0bca1bdb4ffb2bebc">[email&#160;protected]</span></a>
+                                    <a href="mailto:dra.quintero2022@gmail.com"><span class="__cf_email__">dra.quintero2022@gmail.com</span></a>
                                 </div>
                             </li>
                         </ul>
@@ -109,44 +108,52 @@
         <div class="row d-flex align-items-center justify-content-center mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />Contact
-                        Us<img class="right-vec" src="/assets/images/icon/sub-title-vec.svg"
+                    <span>
+                        <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        Contáctame
+                        <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg"
                             alt="sub-title-vec" /></span>
-                    <h2>Get In Touch</h2>
+                    <h2>¿Cómo puedo ayudarte?</h2>
                 </div>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-10">
-                <form>
+                <form method="post" action="/php/contact.php">
                     <div class="row justify-content-center">
                         <div class="col-lg-6 col-md-6 mb-25">
-                            <div class="form-inner">
-                                <input type="text" placeholder="Name*" />
+                            <div class="form-group">
+                                <input name="nombre" type="text" placeholder="Nombre*" />
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 mb-25">
-                            <div class="form-inner">
-                                <input type="email" placeholder="Email*" />
+                            <div class="form-group">
+                                <input name="email" type="email" placeholder="Correo*" />
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 mb-25">
+                            <div class="form-group">
+                                <input name="tel" type="text" placeholder="Teléfono*" />
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 mb-25">
+                            <div class="form-group">
+                                <input name="asunto" type="text" placeholder="Asunto*" />
                             </div>
                         </div>
                         <div class="col-lg-12">
-                            <div class="form-inner">
-                                <textarea placeholder="Message ..."></textarea>
+                            <div class="form-group">
+                                <textarea name="msj" placeholder="Mensaje ..."></textarea>
                             </div>
                         </div>
-                        <div class="col-lg-12 mb-40">
-                            <div class="form-inner2">
-                                <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike" />
-                                <label for="vehicle1">
-                                    Please save my name, email for the next time when I
-                                    comment.
-                                </label>
+                        <div class="row justify-content-center" style="margin-bottom: 3rem; margin-top:3rem;">
+                            <div class="col-12 col-md-5">
+                                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
-                            <div class="form-inner">
-                                <button type="submit">Send Message</button>
+                            <div class="form-group">
+                                <button name="submit" value="submit" type="submit">Enviar</button>
                             </div>
                         </div>
                     </div>
@@ -156,7 +163,5 @@
     </div>
 </div>
 <div class="contact-map">
-    <iframe
-        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14599.578237069936!2d90.3654215!3d23.8223482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1668781325239!5m2!1sen!2sbd"
-        style="border: 0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14702.039082577443!2d-109.9152524!3d22.894561!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xed0821e14391a2e9!2sDra.%20Ingrid%20Quintero!5e0!3m2!1ses-419!2smx!4v1673366194050!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

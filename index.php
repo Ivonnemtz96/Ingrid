@@ -3,7 +3,11 @@
 <?php
 include('includes/head.php');
 ?>
-
+<?php
+if (isset($_GET)) {
+    include_once("php/msg.php");
+}
+?>
 <body class="tt-magic-cursor">
     <?
         include('includes/preloader.php');
