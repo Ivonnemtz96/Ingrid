@@ -5733,7 +5733,7 @@ footer .footer-btm .privacy-policy p a:hover {
   transition: 0.35s;
 }
 .h2-reguler-item .reguler-items-wrap .reguler-items-content h3 a:hover {
-  color: var(--primary-color1);
+  color: #e2a79d;
 }
 .h2-reguler-item .reguler-items-wrap .reguler-items-content p {
   font-size: 1.125rem;
