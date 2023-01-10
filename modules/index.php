@@ -11,9 +11,9 @@
                 <div class="banner-wrapper d-flex align-items-center
                             justify-content-between">
                     <div class="banner-content">
-                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg"
+                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png"
                                 alt="sub-title-vec">Welcome To Restho<img class="right-vec"
-                                src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"></span>
+                                src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
                         <h1>Find Your Best
                             Healthy & Tasty Food.</h1>
                         <p>It is a long established fact that a reader
@@ -39,9 +39,9 @@
                 <div class="banner-wrapper d-flex align-items-center
                             justify-content-between">
                     <div class="banner-content">
-                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg"
+                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png"
                                 alt="sub-title-vec">Welcome To Restho<img class="right-vec"
-                                src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"></span>
+                                src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
                         <h1>Find Your Best
                             Healthy & Tasty Food.</h1>
                         <p>It is a long established fact that a reader
@@ -67,9 +67,9 @@
                 <div class="banner-wrapper d-flex align-items-center
                             justify-content-between">
                     <div class="banner-content">
-                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg"
+                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png"
                                 alt="sub-title-vec">Welcome To Restho<img class="right-vec"
-                                src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"></span>
+                                src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
                         <h1>Find Your Best
                             Healthy & Tasty Food.</h1>
                         <p>It is a long established fact that a reader
@@ -205,8 +205,8 @@
     </div>
     <div class="about-right">
         <div class="section-title">
-            <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"> Sobre la Dra.
-                Ingrid<img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec"></span>
+            <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"> Sobre la Dra.
+                Ingrid<img class="right-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
             <h2>Ginecóloga y Bióloga de la Reproducción.</h2>
             <p>It has survived not only five centuries, but also the
                 leap into electronic typesetting, remaining essentially
@@ -252,9 +252,9 @@
             <div class="col-lg-8">
                 <div class="section-title text-center">
                     <span>
-                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">
                         Tu salud en manos de la experta
-                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">
                     </span>
                     <h2>Nuestros servicios</h2>
                     <p>
@@ -395,9 +395,9 @@
             <div class="col-lg-12">
                 <div class="section-title">
                     <span>
-                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec" />
                         ¿Por qué elegirme?
-                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec" />
                     </span>
                     <h2>La especialista que te guiará en el proceso </h2>
                 </div>
@@ -476,9 +476,9 @@
             <div class="col-lg-8">
                 <div class="section-title text-center">
                     <span>
-                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">
                         Resultados comprobados
-                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">
                     </span>
                     <h2>Nuestra galería</h2>
                 </div>
@@ -588,8 +588,8 @@
                     mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">Our
-                        Experties<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
+                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">Our
+                        Experties<img class="right-vec" src="assets/images/icon/sub-title-vec.png"
                             alt="sub-title-vec"></span>
                     <h2>Restho's Best Chef</h2>
                 </div>
@@ -662,8 +662,8 @@
                     mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">Online
-                        Reserve<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
+                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">Online
+                        Reserve<img class="right-vec" src="assets/images/icon/sub-title-vec.png"
                             alt="sub-title-vec"></span>
                     <h2>For Online Reservation</h2>
                 </div>
@@ -738,8 +738,8 @@
                     mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec">Our
-                        Blog<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
+                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">Our
+                        Blog<img class="right-vec" src="assets/images/icon/sub-title-vec.png"
                             alt="sub-title-vec"></span>
                     <h2>Our Latest Blog</h2>
                 </div>

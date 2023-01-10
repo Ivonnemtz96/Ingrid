@@ -109,9 +109,9 @@
             <div class="col-lg-8">
                 <div class="section-title text-center">
                     <span>
-                        <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        <img class="left-vec" src="/assets/images/icon/sub-title-vec.png" alt="sub-title-vec" />
                         Contáctame
-                        <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg"
+                        <img class="right-vec" src="/assets/images/icon/sub-title-vec.png"
                             alt="sub-title-vec" /></span>
                     <h2>¿Cómo puedo ayudarte?</h2>
                 </div>
