@@ -86,7 +86,7 @@
                 <div class="col-md-12 justify-content-center
                             justify-content-center">
                     <div class="copyright-area">
-                        <p>2023 Dra. Ingrid Quintero. Diseñado por <a href="https://bananagroup.mx"><strong>Banana Group Marketing</strong></a> </p>
+                        <p>2023 Dra. Ingrid Quintero. Diseñado por <a target="_blank" href="https://bananagroup.mx"><strong>Banana Group Marketing</strong></a> </p>
                     </div>
                 </div>
             </div>

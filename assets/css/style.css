@@ -429,18 +429,18 @@ html .ui-button.ui-state-disabled:active:hover {
   align-items: center;
   height: 100%;
   width: 100%;
-  background-color: #070707;
+  background-color: #fff;
   z-index: 999999999;
 }
 .preloader::before {
   position: absolute;
-  top: 45%;
+  top: 35%;
   content: url(../images/icon/logo-icon.svg);
   width: 100%;
   margin: auto;
   text-align: center;
   transform: scale(4);
-  opacity: 0.15;
+  opacity: 0.45;
 }
 @media (max-width: 991px) {
   .preloader::before {
@@ -454,7 +454,7 @@ html .ui-button.ui-state-disabled:active:hover {
 }
 .preloader .counter {
   position: relative;
-  color: #fff;
+  color: #e2a79d;
   font-size: 6rem;
   font-weight: 600;
   z-index: 1;
@@ -5389,7 +5389,7 @@ footer .footer-btm .copyright-area p a {
   transition: 0.35s;
 }
 footer .footer-btm .copyright-area p a:hover {
-  color: var(--primary-color1);
+  color: #e2a79d;
 }
 footer .footer-btm .privacy-policy p {
   font-size: 1rem;

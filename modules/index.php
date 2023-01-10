@@ -180,7 +180,7 @@
                             <div class="reguler-items-content">
                                 <h3>
                                     <a href="#">
-                                        Consulta ginecológica
+                                        Consulta ginecólogica
                                     </a>
                                 </h3>
                                 <p>
