@@ -11,17 +11,19 @@
                 <div class="banner-wrapper d-flex align-items-center
                             justify-content-between">
                     <div class="banner-content">
-                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png"
-                                alt="sub-title-vec">Welcome To Restho<img class="right-vec"
-                                src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
-                        <h1>Find Your Best
-                            Healthy & Tasty Food.</h1>
-                        <p>It is a long established fact that a reader
-                            will be distracted by the readable content
-                            of a page.</p>
-                        <a class="primary-btn5 btn-md2 btn-slider" href="about.html"><i class="bi
-                                        bi-arrow-up-right-circle"></i>Discover
-                            More</a>
+                        <span>
+                            <img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">
+                            Dra. Ingrid Quintero
+                            <img class="right-vec" src="assets/images/icon/sub-title-vec.png"
+                                alt="sub-title-vec"></span>
+                        <h1>¿Preparada para el gran momento?</h1>
+                        <p>
+                            Servicio profesional desde el primer contacto
+                        </p>
+                        <a class="primary-btn5 btn-md2 btn-slider" href="/galeria">
+                            <i class="bi bi-arrow-up-right-circle"></i>
+                            Ver galería
+                        </a>
                     </div>
                     <div class="banner-right">
                         <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img1.png"
@@ -39,17 +41,19 @@
                 <div class="banner-wrapper d-flex align-items-center
                             justify-content-between">
                     <div class="banner-content">
-                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png"
-                                alt="sub-title-vec">Welcome To Restho<img class="right-vec"
-                                src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
-                        <h1>Find Your Best
-                            Healthy & Tasty Food.</h1>
-                        <p>It is a long established fact that a reader
-                            will be distracted by the readable content
-                            of a page.</p>
-                        <a class="primary-btn5 btn-md2 btn-slider" href="about.html"><i class="bi
-                                        bi-arrow-up-right-circle"></i>Discover
-                            More</a>
+                        <span>
+                            <img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">
+                            ¿Ya sabes que método anticonceptivo usar?
+                            <img class="right-vec" src="assets/images/icon/sub-title-vec.png"
+                                alt="sub-title-vec"></span>
+                        <h1>Al cuidado de tu planificación familiar</h1>
+                        <p>
+                            Cuide su salud reproductiva acudiendo al ginecólogo frecuentemente.
+                        </p>
+                        <a class="primary-btn5 btn-md2 btn-slider" href="/galeria">
+                            <i class="bi bi-arrow-up-right-circle"></i>
+                            Ver galería
+                        </a>
                     </div>
                     <div class="banner-right">
                         <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img11.png"
@@ -67,17 +71,15 @@
                 <div class="banner-wrapper d-flex align-items-center
                             justify-content-between">
                     <div class="banner-content">
-                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png"
-                                alt="sub-title-vec">Welcome To Restho<img class="right-vec"
-                                src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
-                        <h1>Find Your Best
-                            Healthy & Tasty Food.</h1>
-                        <p>It is a long established fact that a reader
-                            will be distracted by the readable content
-                            of a page.</p>
-                        <a class="primary-btn5 btn-md2 btn-slider" href="about.html"><i class="bi
-                                        bi-arrow-up-right-circle"></i>Discover
-                            More</a>
+                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">Tu
+                            ginecóloga de confianza<img class="right-vec" src="assets/images/icon/sub-title-vec.png"
+                                alt="sub-title-vec"></span>
+                        <h1>Dra. Ingrid Quintero </h1>
+                        <p>Ginecología y Obstetricia - Bióloga de la Reproducción</p>
+                        <a class="primary-btn5 btn-md2 btn-slider" href="/galeria">
+                            <i class="bi bi-arrow-up-right-circle"></i>
+                            Ver galería
+                        </a>
                     </div>
                     <div class="banner-right">
                         <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img22.png"
@@ -208,19 +210,15 @@
             <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"> Sobre la Dra.
                 Ingrid<img class="right-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
             <h2>Ginecóloga y Bióloga de la Reproducción.</h2>
-            <p>It has survived not only five centuries, but also the
-                leap into electronic typesetting, remaining essentially
-                unchanged. It was popularised in the 1960s with the
-                release of Letraset sheets containing Lorem Ipsum
-                passages, and more recently with desktop publishing
-                software like Aldus PageMaker including versions of
-                Lorem Ipsum.</p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius animi error possimus. Aliquam amet saepe cupiditate beatae nulla? Quod incidunt facere minima, provident ea doloribus voluptatem, voluptatum commodi nisi, iure ducimus. Expedita suscipit corporis commodi aperiam tenetur explicabo earum deleniti cumque inventore. Cumque itaque saepe nemo totam maiores consectetur facilis.
+            </p>
         </div>
         <div class="about-featurs">
             <ul>
                 <li>
                     <div class="features-img">
-                        <img src="assets/images/icon/h2-about1.svg" alt="">
+                        <img src="assets/images/icon/utero.png" alt="">
                     </div>
                     <div class="features-content">
                         <h4>Ginecología</h4>
@@ -229,7 +227,7 @@
                 </li>
                 <li>
                     <div class="features-img">
-                        <img src="assets/images/icon/h2-about2.svg" alt="">
+                        <img src="assets/images/icon/obstetricia.png" alt="">
                     </div>
                     <div class="features-content">
                         <h4>Obstetricia</h4>
@@ -240,7 +238,7 @@
         </div>
         <a class="primary-btn5 btn-md2" href="/galeria">
             <i class="bi bi-arrow-up-right-circle"></i>
-           Ver galería
+            Ver galería
         </a>
     </div>
 </div>
@@ -271,7 +269,7 @@
                         <div class="reguler-items-wrap">
                             <div class="item-img">
                                 <img class="img-fluid" src="assets/images/bg/h2-regular-items11.png" alt="">
-                                
+
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -290,7 +288,7 @@
                         <div class="reguler-items-wrap">
                             <div class="item-img">
                                 <img class="img-fluid" src="assets/images/bg/1.png" alt="">
-                                
+
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -307,7 +305,7 @@
                         <div class="reguler-items-wrap">
                             <div class="item-img">
                                 <img class="img-fluid" src="assets/images/bg/2.png" alt="">
-                                
+
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -325,7 +323,7 @@
                         <div class="reguler-items-wrap">
                             <div class="item-img">
                                 <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="">
-                                
+
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -343,7 +341,7 @@
                         <div class="reguler-items-wrap">
                             <div class="item-img">
                                 <img class="img-fluid" src="assets/images/bg/3.png" alt="">
-                                
+
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -361,7 +359,7 @@
                         <div class="reguler-items-wrap">
                             <div class="item-img">
                                 <img class="img-fluid" src="assets/images/bg/4.png" alt="">
-                                
+
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
@@ -415,7 +413,7 @@
             <div class="col-lg-8">
                 <div class="our-mission">
                     <div class="icon">
-                        <img src="assets/images/icon/mission.svg" alt="" />
+                        <img src="assets/images/icon/mission.png" alt="" />
                         <h4>Misión</h4>
                     </div>
                     <div class="description">
@@ -820,8 +818,7 @@
             <div class="col-lg-8">
                 <div class="section-title3 text-center">
                     <span>
-                        <img class="left-vec" src="assets/images/icon/h3-sub-title-vec.svg" alt="" />Testimonios<img
-                            class="right-vec" src="assets/images/icon/h3-sub-title-vec.svg" alt="" /></span>
+                        Testimonios</span>
                     <h2>¿Qué opinan los clientes?</h2>
                 </div>
             </div>
@@ -836,9 +833,7 @@
                                     <img src="assets/images/icon/Comma.svg" alt="Comma" />
                                 </div>
                                 <p>
-                                    If you are going to use a passage of Lorem Ipsum, you need
-                                    to be sure there isn't anything passage need to be sure
-                                    embarrass.
+                                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eaque magni perspiciatis quisquam, architecto numquam impedit explicabo tempore labore iste.
                                 </p>
                             </div>
                             <div class="testi-author-area">
@@ -872,9 +867,7 @@
                                     <img src="assets/images/icon/Comma.svg" alt="Comma" />
                                 </div>
                                 <p>
-                                    If you are going to use a passage of Lorem Ipsum, you need
-                                    to be sure there isn't anything passage need to be sure
-                                    embarrass.
+                                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eaque magni perspiciatis quisquam, architecto numquam impedit explicabo tempore labore iste.
                                 </p>
                             </div>
                             <div class="testi-author-area">
@@ -908,9 +901,7 @@
                                     <img src="assets/images/icon/Comma.svg" alt="Comma" />
                                 </div>
                                 <p>
-                                    If you are going to use a passage of Lorem Ipsum, you need
-                                    to be sure there isn't anything passage need to be sure
-                                    embarrass.
+                                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eaque magni perspiciatis quisquam, architecto numquam impedit explicabo tempore labore iste.
                                 </p>
                             </div>
                             <div class="testi-author-area">

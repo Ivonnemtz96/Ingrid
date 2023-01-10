@@ -36,7 +36,7 @@
                         <ul>
                             <li>
                                 <div class="icon">
-                                    <img src="/assets/images/icon/location.svg" alt="location" />
+                                    <img src="/assets/images/icon/location.png" alt="location" />
                                 </div>
                                 <div class="content">
                                     <a href="https://goo.gl/maps/wW5FzLfEeHMrm3YC6">Av. Leona Vicario 26, <br> Downtown, Juárez, 23460</a>
@@ -44,7 +44,7 @@
                             </li>
                             <li>
                                 <div class="icon">
-                                    <img src="/assets/images/icon/phone.svg" alt="phone" />
+                                    <img src="/assets/images/icon/phone.png" alt="phone" />
                                 </div>
                                 <div class="content">
                                     <a href="tel:+526241328278">624 132 8278</a>
@@ -52,7 +52,7 @@
                             </li>
                             <li>
                                 <div class="icon">
-                                    <img src="/assets/images/icon/envlope.svg" alt="envlope" />
+                                    <img src="/assets/images/icon/envlope.png" alt="envlope" />
                                 </div>
                                 <div class="content">
                                     <a href="mailto:dra.quintero2022@gmail.com"><span class="__cf_email__">dra.quintero2022@gmail.com</span></a>
