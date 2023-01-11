@@ -101,11 +101,11 @@
 
 
 
-<div class="h2-about-area pb-120" id="acercade">
-    <div class="about-left2">
+<div class="h2-about-area pb-120" id="acercade" >
+    <div class="about-left2" >
         <img class="img-fluid" src="assets/images/bg/h2-about-img-full.png" alt="h2-about-img-full">
     </div>
-    <div class="about-left">
+    <div class="about-left" >
         <img class="img-fluid h2-about-img1" src="assets/images/bg/h2-about-img1.png" alt="h2-about-img1">
         <img class="img-fluid h2-about-img3" src="assets/images/bg/h2-about-img3.png" alt="h2-about-img3">
         <img class="img-fluid h2-about-img2" src="assets/images/bg/h2-about-img2.png" alt="h2-about-img2">
