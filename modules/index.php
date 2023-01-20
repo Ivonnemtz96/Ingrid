@@ -101,11 +101,11 @@
 
 
 
-<div class="h2-about-area pb-120" id="acercade" >
-    <div class="about-left2" >
+<div class="h2-about-area pb-120" id="acercade">
+    <div class="about-left2">
         <img class="img-fluid" src="assets/images/bg/h2-about-img-full.png" alt="h2-about-img-full">
     </div>
-    <div class="about-left" >
+    <div class="about-left">
         <img class="img-fluid h2-about-img1" src="assets/images/bg/h2-about-img1.png" alt="h2-about-img1">
         <img class="img-fluid h2-about-img3" src="assets/images/bg/h2-about-img3.png" alt="h2-about-img3">
         <img class="img-fluid h2-about-img2" src="assets/images/bg/h2-about-img2.png" alt="h2-about-img2">
@@ -113,11 +113,13 @@
     </div>
     <div class="about-right">
         <div class="section-title">
-            <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"> Sobre la Dra.
-                Ingrid<img class="right-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
+            <span><img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"> Sobre Mí<img
+                    class="right-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec"></span>
             <h2>Ginecóloga y Bióloga de la Reproducción.</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius animi error possimus. Aliquam amet saepe cupiditate beatae nulla? Quod incidunt facere minima, provident ea doloribus voluptatem, voluptatum commodi nisi, iure ducimus. Expedita suscipit corporis commodi aperiam tenetur explicabo earum deleniti cumque inventore. Cumque itaque saepe nemo totam maiores consectetur facilis.
+                Cuento con amplia experiencia y estudios respaldados por la facultad de medicina da la Universidad
+                Autónoma de Guadalajara, egresada de ginecología y obstetrica de la UNAM. También, egresada de Biología
+                de la Reproducción Humana de instituto Vida guadalajara del Dr. Efrain Pérez Peña avalada por la UNAM
             </p>
         </div>
         <div class="about-featurs">
@@ -128,7 +130,7 @@
                     </div>
                     <div class="features-content">
                         <h4>Ginecología</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quo.</p>
+                        <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quo.</p> -->
                     </div>
                 </li>
                 <li>
@@ -137,7 +139,7 @@
                     </div>
                     <div class="features-content">
                         <h4>Obstetricia</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quo.</p>
+                        <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quo.</p> -->
                     </div>
                 </li>
             </ul>
@@ -180,15 +182,51 @@
                             <div class="reguler-items-content">
                                 <h3>
                                     <a href="#">
-                                        Consulta ginecólogica
+                                        Chequeo anual
                                     </a>
                                 </h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis cupiditate.
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.
                                 </p>
                             </div>
                         </div>
                     </div>
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/papanicolau.png?=1" alt="">
+
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="#">
+                                        Papanicolau
+                                    </a>
+                                </h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/colposcopia.png?=1" alt="">
+
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="#">
+                                        Colposcopia
+                                    </a>
+                                </h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
@@ -198,17 +236,37 @@
                             <div class="reguler-items-content">
                                 <h3>
                                     <a href="#">
-                                        Embarazo
+                                        Preparación para embarazo
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis cupiditate.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p>
                             </div>
                         </div>
                     </div>
+
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/2.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/control.png" alt="">
+
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="#">
+                                        Control de embarazo
+                                    </a>
+                                </h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/2.png?=1" alt="">
 
                             </div>
                             <div class="reguler-items-content">
@@ -217,7 +275,8 @@
                                         Infertilidad
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis cupiditate.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p>
                             </div>
                         </div>
                     </div>
@@ -225,7 +284,25 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/climaterio.png" alt="">
+
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="#">
+                                        Climaterio
+                                    </a>
+                                </h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/menopausia.png" alt="">
 
                             </div>
                             <div class="reguler-items-content">
@@ -234,44 +311,12 @@
                                         Menopausia
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis cupiditate.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="swiper-slide">
-                        <div class="reguler-items-wrap">
-                            <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/3.png" alt="">
-
-                            </div>
-                            <div class="reguler-items-content">
-                                <h3>
-                                    <a href="#">
-                                        Cesárea
-                                    </a>
-                                </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis cupiditate.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="reguler-items-wrap">
-                            <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/4.png" alt="">
-
-                            </div>
-                            <div class="reguler-items-content">
-                                <h3>
-                                    <a href="#">
-                                        Parto
-                                    </a>
-                                </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis cupiditate.</p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="slider-btn">
@@ -318,10 +363,13 @@
                     </div>
                     <div class="description">
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto maxime eius, commodi
-                            fugit odio exercitationem voluptatum repellat perferendis ipsam delectus voluptates quo
-                            voluptatem nesciunt labore harum autem voluptas porro. Illo dolorem praesentium deleniti,
-                            necessitatibus illum veniam incidunt modi nostrum pariatur!
+                            Estoy comprometida con las mujeres de Los Cabos, Baja California Sur, conóceme, llama para
+                            programar
+                            una cita en ginecología y obstetricia, encuentra tratamientos para el cuidado de tu salud,
+                            seguimiento adecuado de tu embarazo o soluciones ante los síntomas de menopausia. Así como
+                            acompañarte en el camino de fertilización invitro o inseminaciones, cuidando tu nutrición y
+                            salud emocional.
+
                         </p>
                     </div>
                 </div>
@@ -329,16 +377,16 @@
                     <div class="features-author">
                         <div class="intro-features">
                             <ul>
-                                <li><i class="bi bi-check-circle"></i>Control de embarazo.</li>
-                                <li><i class="bi bi-check-circle"></i>Diágnostico de embarazo.</li>
+                                <li><i class="bi bi-check-circle"></i>Inseminaciones.</li>
+                                <li><i class="bi bi-check-circle"></i>Fertilización in vitro.</li>
                                 <li>
-                                    <i class="bi bi-check-circle"></i>Consulta prenatal.
+                                    <i class="bi bi-check-circle"></i>Climaterio.
                                 </li>
                             </ul>
                             <ul>
-                                <li><i class="bi bi-check-circle"></i>Parto y cesárea.</li>
-                                <li><i class="bi bi-check-circle"></i>Ultrasonido.</li>
-                                <li><i class="bi bi-check-circle"></i>Consulta de fertilidad.</li>
+                                <li><i class="bi bi-check-circle"></i>Menopausia.</li>
+                                <li><i class="bi bi-check-circle"></i>Papanicolau.</li>
+                                <li><i class="bi bi-check-circle"></i>Control de embarazo.</li>
                             </ul>
                         </div>
                         <div class="author-area">
@@ -368,6 +416,130 @@
     </div>
 </div>
 
+<div class="h2-reguler-item mb-120" id="servicios">
+    <div class="container">
+        <div class="row d-flex justify-content-center mb-40">
+            <div class="col-lg-8">
+                <div class="section-title text-center">
+                    <span>
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">
+                        Tu salud en manos de la experta
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.png" alt="sub-title-vec">
+                    </span>
+                    <h2>Cuento con diferentes tipos de cirugías</h2>
+                    <!-- <p>
+                        Various versions have evolved over the years,
+                        sometimes on purpose.
+                    </p> -->
+                </div>
+            </div>
+        </div>
+        <div class="row position-relative">
+            <div class="swiper h2-reguler-items-slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/quistes.png?=1" alt="">
+
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="#">
+                                        Quistes
+                                    </a>
+                                </h3>
+                                <!-- <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.
+                                </p> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/3.png" alt="">
+
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="#">
+                                        Cesáreas
+                                    </a>
+                                </h3>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p> -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/histerectomia.png" alt="">
+
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="#">
+                                        Histerectomias
+                                    </a>
+                                </h3>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p> -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/miomectomia.png" alt="">
+
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="#">
+                                        Miomectomia
+                                    </a>
+                                </h3>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p> -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="reguler-items-wrap">
+                            <div class="item-img">
+                                <img class="img-fluid" src="assets/images/bg/4.png" alt="">
+
+                            </div>
+                            <div class="reguler-items-content">
+                                <h3>
+                                    <a href="#">
+                                        Parto
+                                    </a>
+                                </h3>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
+                                    cupiditate.</p> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slider-btn">
+                <div class="prev-btn-3">
+                    <i class="bi bi-arrow-left-short"></i>
+                </div>
+                <div class="next-btn-3">
+                    <i class="bi bi-arrow-right-short"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class="home3-testimonial mb-120">
     <div class="container">
@@ -390,7 +562,8 @@
                                     <img src="assets/images/icon/Comma.svg" alt="Comma" />
                                 </div>
                                 <p>
-                                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eaque magni perspiciatis quisquam, architecto numquam impedit explicabo tempore labore iste.
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eaque magni
+                                    perspiciatis quisquam, architecto numquam impedit explicabo tempore labore iste.
                                 </p>
                             </div>
                             <div class="testi-author-area">
@@ -424,7 +597,8 @@
                                     <img src="assets/images/icon/Comma.svg" alt="Comma" />
                                 </div>
                                 <p>
-                                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eaque magni perspiciatis quisquam, architecto numquam impedit explicabo tempore labore iste.
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eaque magni
+                                    perspiciatis quisquam, architecto numquam impedit explicabo tempore labore iste.
                                 </p>
                             </div>
                             <div class="testi-author-area">
@@ -458,7 +632,8 @@
                                     <img src="assets/images/icon/Comma.svg" alt="Comma" />
                                 </div>
                                 <p>
-                                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eaque magni perspiciatis quisquam, architecto numquam impedit explicabo tempore labore iste.
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eaque magni
+                                    perspiciatis quisquam, architecto numquam impedit explicabo tempore labore iste.
                                 </p>
                             </div>
                             <div class="testi-author-area">
