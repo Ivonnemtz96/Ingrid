@@ -181,13 +181,12 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Chequeo anual
                                     </a>
                                 </h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
-                                    cupiditate.
+                                    Recuerda que tu salud es lo más importante, agenda tu cita.
                                 </p>
                             </div>
                         </div>
@@ -200,12 +199,14 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Papanicolau
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
-                                    cupiditate.</p>
+                                <p>
+                                    La prueba de Papanicolau es una forma confiable de encontrar el cáncer en etapas
+                                    tempranas.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -217,12 +218,14 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Colposcopia
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
-                                    cupiditate.</p>
+                                <p>
+                                    Es una forma rápida y fácil de detectar cambios en las células de tu cuello uterino
+                                    que pueden convertirse en cáncer de los órganos reproductivos
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -235,12 +238,14 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Preparación para embarazo
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
-                                    cupiditate.</p>
+                                <p>
+                                    En el periodo de gestación los chequeos constantes son importantes, recuerda que es
+                                    tu salud y la de tu bebé.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -253,12 +258,14 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Control de embarazo
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
-                                    cupiditate.</p>
+                                <p>
+                                    Sabemos lo importante que es este proceso.
+                                    Permíteme acompañarte y comprobar que soy la indicada.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -271,12 +278,14 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Infertilidad
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
-                                    cupiditate.</p>
+                                <p>
+                                    Conocer un poco más de este padecimiento puede ayudarte a comprender lo que pasa
+                                    dentro de tu cuerpo.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -289,12 +298,14 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Climaterio
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
-                                    cupiditate.</p>
+                                <p>
+                                    Período de transición en la vida de la mujer, entre la etapa reproductiva a la no
+                                    reproductiva. Agenda tu cita.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -307,12 +318,14 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Menopausia
                                     </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
-                                    cupiditate.</p>
+                                <p>
+                                    Edad en la que se presenta la última menstruación espontánea y se requiere que pasen
+                                    por lo menos 6 meses para considerarse definitiva.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -445,7 +458,7 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Quistes
                                     </a>
                                 </h3>
@@ -464,7 +477,7 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Cesáreas
                                     </a>
                                 </h3>
@@ -482,7 +495,7 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Histerectomias
                                     </a>
                                 </h3>
@@ -500,7 +513,7 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Miomectomia
                                     </a>
                                 </h3>
@@ -518,7 +531,7 @@
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
-                                    <a href="#">
+                                    <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
                                         Parto
                                     </a>
                                 </h3>
