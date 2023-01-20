@@ -2,8 +2,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Restho - Resturent HTML Template</title>
-    <link rel="icon" href="/assets/images/icon/logo-icon.svg" type="image/gif" sizes="20x20">
+    <title>Dra. Ingrid Quintero</title>
+    <link rel="icon" href="/assets/images/icon/logo-icon.png" type="image/gif" sizes="20x20">
 
     <link rel="stylesheet" href="/assets/css/all.css">
 
@@ -26,4 +26,7 @@
     <link rel="stylesheet" href="/assets/css/odometer.css">
 
     <link rel="stylesheet" href="/assets/css/style.css">
+
+     <!-- captcha -->
+     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
