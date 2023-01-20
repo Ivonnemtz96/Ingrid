@@ -40,9 +40,9 @@
         </div> -->
         <div class="row grid g-4">
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item food">
-                <a href="/assets/images/bg/MASONNERY-01.jpg" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-01.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-01.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-01.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
                                 <img src="/assets/images/icon/Zoom.svg" alt="" />
@@ -52,9 +52,9 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item privateevent">
-                <a href="/assets/images/bg/MASONNERY-02.jpg" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-02.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-02.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-02.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
                                 <img src="/assets/images/icon/Zoom.svg" alt="" />
@@ -64,9 +64,9 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item interior">
-                <a href="/assets/images/bg/MASONNERY-03.jpg" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-03.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-03.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-03.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
                                 <img src="/assets/images/icon/Zoom.svg" alt="" />
@@ -76,9 +76,9 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item eatingplace">
-                <a href="/assets/images/bg/MASONNERY-05.jpg" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-05.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-05.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-05.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
                                 <img src="/assets/images/icon/Zoom.svg" alt="" />
@@ -88,9 +88,9 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item traditions">
-                <a href="/assets/images/bg/MASONNERY-04.jpg" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-04.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-04.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-04.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
                                 <img src="/assets/images/icon/Zoom.svg" alt="" />
@@ -100,9 +100,9 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 grid-item food">
-                <a href="/assets/images/bg/MASONNERY-06.jpg" data-fancybox="gallery" class="gallery2-img">
+                <a href="/assets/images/bg/masonary-big-06.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-06.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/MASONNERY-06.png" alt="" />
                         <div class="overlay">
                             <div class="zoom-icon">
                                 <img src="/assets/images/icon/Zoom.svg" alt="" />
@@ -111,8 +111,7 @@
                     </div>
                 </a>
             </div>
-
-            <!-- <div class="col-lg-4 col-md-6 col-sm-12 grid-item privateevent">
+            <div class="col-lg-4 col-md-6 col-sm-12 grid-item privateevent">
                 <a href="/assets/images/bg/masonary-big-08.png" data-fancybox="gallery" class="gallery2-img">
                     <div class="gallery-img">
                         <img class="img-fluid" src="/assets/images/bg/MASONNERY-08.png" alt="" />
@@ -183,7 +182,7 @@
                         </div>
                     </div>
                 </a>
-            </div> -->
+            </div>
         </div>
         <!-- <div-- class="row pt-60">
             <div class="col-lg-12 d-flex justify-content-center">

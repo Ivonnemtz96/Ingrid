@@ -1,5 +1,5 @@
 <footer>
-    <!-- <div class="footer-top ">
+    <div class="footer-top ">
         <div class="container">
             <div class="row justify-content-center align-items-center
                         gy-5">
@@ -79,14 +79,21 @@
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <div class="footer-btm">
-        <div class="container text-center">
-            <div class="row border-ttop g-2 justify-content-center">
-                <div class="col-md-12 justify-content-center
+        <div class="container">
+            <div class="row border-ttop g-2">
+                <div class="col-md-8 justify-content-md-start
                             justify-content-center">
                     <div class="copyright-area">
-                        <p>2023 Dra. Ingrid Quintero. Diseñado por <a target="_blank" href="https://bananagroup.mx"><strong>Banana Group Marketing</strong></a> </p>
+                        <p>@Copyright by <a href="#">Egenslab</a>-2022,
+                            All Right Reserved.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 d-flex justify-content-md-end
+                            justify-content-center">
+                    <div class="privacy-policy">
+                        <p><a href="#">Privacy & Policy</a> | <a href="#">Terms and Conditions</a></p>
                     </div>
                 </div>
             </div>

@@ -429,18 +429,18 @@ html .ui-button.ui-state-disabled:active:hover {
   align-items: center;
   height: 100%;
   width: 100%;
-  background-color: #fff;
+  background-color: #070707;
   z-index: 999999999;
 }
 .preloader::before {
   position: absolute;
-  top: 35%;
+  top: 45%;
   content: url(../images/icon/logo-icon.svg);
   width: 100%;
   margin: auto;
   text-align: center;
   transform: scale(4);
-  opacity: 0.45;
+  opacity: 0.15;
 }
 @media (max-width: 991px) {
   .preloader::before {
@@ -454,7 +454,7 @@ html .ui-button.ui-state-disabled:active:hover {
 }
 .preloader .counter {
   position: relative;
-  color: #e2a79d;
+  color: #fff;
   font-size: 6rem;
   font-weight: 600;
   z-index: 1;
@@ -1105,7 +1105,7 @@ body.tt-magic-cursor #magic-cursor {
   padding: 10px 0;
 }
 .top-bar.two {
-  background: linear-gradient(90deg, #7f7f7f 0%, #7d7d7d 100%);
+  background: linear-gradient(90deg, #000000 0%, #09161d 100%);
   border-bottom: unset;
 }
 .top-bar.four {
@@ -1136,7 +1136,7 @@ body.tt-magic-cursor #magic-cursor {
   font-family: var(--font-Jost);
 }
 .top-bar .open-time p span {
-  color: #000;
+  color: var(--primary-color1);
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .top-bar .open-time p {
@@ -1170,7 +1170,7 @@ body.tt-magic-cursor #magic-cursor {
   transition: 0.35s;
 }
 .top-bar .contact-info ul li a i {
-  color: #fff;
+  color: var(--primary-color1);
   margin-right: 5px;
   transition: 0.35s;
 }
@@ -1967,7 +1967,7 @@ header.style-2 .hotline {
 }
 header.style-2 .hotline .hotline-icon {
   border: 1px solid;
-  border-color: #e2a79d;
+  border-color: var(--primary-color1);
   border-radius: 50%;
   height: 50px;
   width: 50px;
@@ -1978,12 +1978,12 @@ header.style-2 .hotline .hotline-icon {
   margin-right: 10px;
 }
 header.style-2 .hotline .hotline-icon svg {
-  fill: #e2a79d;
+  fill: var(--primary-color1);
 }
 header.style-2 .hotline .hotline-info span {
   font-size: 14px;
   font-weight: 500;
-  color: #e2a79d;
+  color: var(--primary-color1);
   font-family: var(--font-Jost);
 }
 header.style-2 .hotline .hotline-info h6 {
@@ -2083,10 +2083,10 @@ header.style-2 .main-menu ul > li a {
   }
 }
 header.style-2 .main-menu ul > li a:hover {
-  color: #e2a79d;
+  color: var(--primary-color1);
 }
 header.style-2 .main-menu ul > li a.active {
-  color: #e2a79d;
+  color: var(--primary-color1);
   display: inline-block;
   position: relative;
 }
@@ -2208,7 +2208,7 @@ header.style-2 .main-menu ul > li.menu-item-has-children::after {
   }
 }
 header.style-2 .main-menu ul > li:hover a {
-  color: #e2a79d;
+  color: var(--primary-color1);
 }
 header.style-2 .main-menu ul > li:hover > ul.sub-menu {
   visibility: visible;
@@ -2216,10 +2216,10 @@ header.style-2 .main-menu ul > li:hover > ul.sub-menu {
   transform: translateY(0);
 }
 header.style-2 .main-menu ul > li.active a {
-  color: #e2a79d;
+  color: var(--primary-color1);
 }
 header.style-2 .main-menu ul > li.active::after {
-  color: #e2a79d;
+  color: var(--primary-color1);
 }
 header.style-2 .main-menu ul li.menu-item-has-children > i {
   display: block;
@@ -3461,7 +3461,7 @@ header.style-3 .main-menu ul li.menu-item-has-children > i {
 .banner-section2 .banner-wrapper .banner-content span {
   font-size: 1.125rem;
   font-weight: 400;
-  color: #fff;
+  color: var(--primary-color1);
   line-height: 1.625rem;
   font-family: var(--font-Jost);
   display: inline-block;
@@ -3602,7 +3602,7 @@ header.style-3 .main-menu ul li.menu-item-has-children > i {
   width: 14px;
   border-radius: 2px;
   transform: rotate(-45deg);
-  background-color: #000;
+  background-color: var(--primary-color1);
   opacity: 0.5;
   position: relative;
 }
@@ -3610,7 +3610,7 @@ header.style-3 .main-menu ul li.menu-item-has-children > i {
   content: "";
   height: 20px;
   width: 20px;
-  border: 1px solid #000;
+  border: 1px solid #bf9444;
   border-radius: 2px;
   position: absolute;
   left: -3px;
@@ -3745,7 +3745,7 @@ header.style-3 .main-menu ul li.menu-item-has-children > i {
 .home1-introduction-area .intro-right .features-author .intro-features ul li i {
   margin-right: 10px;
   font-size: 16px;
-  color: #e2a79d;
+  color: var(--primary-color1);
 }
 .home1-introduction-area .intro-right .features-author .author-area {
   padding-top: 30px;
@@ -5389,7 +5389,7 @@ footer .footer-btm .copyright-area p a {
   transition: 0.35s;
 }
 footer .footer-btm .copyright-area p a:hover {
-  color: #e2a79d;
+  color: var(--primary-color1);
 }
 footer .footer-btm .privacy-policy p {
   font-size: 1rem;
@@ -5657,7 +5657,7 @@ footer .footer-btm .privacy-policy p a:hover {
 }
 .h2-reguler-item {
   background-image: linear-gradient(rgba(9, 22, 29, 0.8), rgba(9, 22, 29, 0.8)),
-    url(../images/bg/h2-regular-items-bg.webp);
+    url(../images/bg/h2-regular-items-bg.png);
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -5733,7 +5733,7 @@ footer .footer-btm .privacy-policy p a:hover {
   transition: 0.35s;
 }
 .h2-reguler-item .reguler-items-wrap .reguler-items-content h3 a:hover {
-  color: #e2a79d;
+  color: var(--primary-color1);
 }
 .h2-reguler-item .reguler-items-wrap .reguler-items-content p {
   font-size: 1.125rem;
@@ -5757,7 +5757,7 @@ footer .footer-btm .privacy-policy p a:hover {
 .h2-reguler-item .slider-btn .next-btn-3 {
   height: 34px;
   width: 34px;
-  background-color: #e2a79d;
+  background-color: var(--primary-color1);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -5776,7 +5776,7 @@ footer .footer-btm .privacy-policy p a:hover {
 }
 .h2-reguler-item .slider-btn .prev-btn-3:hover i,
 .h2-reguler-item .slider-btn .next-btn-3:hover i {
-  color: #e2a79d;
+  color: var(--primary-color1);
 }
 @media (max-width: 767px) {
   .h2-reguler-item .slider-btn .prev-btn-3,
@@ -6129,7 +6129,7 @@ footer .footer-btm .privacy-policy p a:hover {
 .h2-reservarion-area .section-title h2 {
   color: var(--white);
 }
-.h2-reservarion-area form .form-group input {
+.h2-reservarion-area form .form-inner input {
   width: 100%;
   background: #09161d;
   border: 1px solid rgba(238, 238, 238, 0.2);
@@ -6141,25 +6141,25 @@ footer .footer-btm .privacy-policy p a:hover {
   color: rgba(255, 255, 255, 0.5);
   font-family: var(--font-Jost);
 }
-.h2-reservarion-area form .form-group input::-moz-placeholder {
+.h2-reservarion-area form .form-inner input::-moz-placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.5);
 }
-.h2-reservarion-area form .form-group input:-ms-input-placeholder {
+.h2-reservarion-area form .form-inner input:-ms-input-placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.5);
 }
-.h2-reservarion-area form .form-group input::placeholder {
+.h2-reservarion-area form .form-inner input::placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.5);
 }
-.h2-reservarion-area form .form-group input:focus {
+.h2-reservarion-area form .form-inner input:focus {
   border: 1px solid rgba(191, 148, 68, 0.5);
 }
-.h2-reservarion-area form .form-group button {
+.h2-reservarion-area form .form-inner button {
   width: 100%;
   border-radius: 50px;
   background-color: var(--primary-color1);
@@ -6173,7 +6173,7 @@ footer .footer-btm .privacy-policy p a:hover {
   position: relative;
   overflow: hidden;
 }
-.h2-reservarion-area form .form-group button:before {
+.h2-reservarion-area form .form-inner button:before {
   transition: 0.5s all ease;
   position: absolute;
   top: 0;
@@ -6185,28 +6185,28 @@ footer .footer-btm .privacy-policy p a:hover {
   background-color: var(--white);
   z-index: -1;
 }
-.h2-reservarion-area form .form-group button:hover {
+.h2-reservarion-area form .form-inner button:hover {
   color: var(--primary-color1);
 }
-.h2-reservarion-area form .form-group button:hover i::before {
+.h2-reservarion-area form .form-inner button:hover i::before {
   content: "\f134";
 }
-.h2-reservarion-area form .form-group button:hover:before {
+.h2-reservarion-area form .form-inner button:hover:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.h2-reservarion-area form .form-group button:focus:before {
+.h2-reservarion-area form .form-inner button:focus:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.h2-reservarion-area form .form-group.date-icon {
+.h2-reservarion-area form .form-inner.date-icon {
   position: relative;
 }
-.h2-reservarion-area form .form-group.date-icon::after {
+.h2-reservarion-area form .form-inner.date-icon::after {
   content: url(../images/icon/date.svg);
   position: absolute;
   right: 30px;
@@ -6214,7 +6214,7 @@ footer .footer-btm .privacy-policy p a:hover {
   transform: translateY(-50%);
   line-height: 1;
 }
-.h2-reservarion-area form .form-group .time-select {
+.h2-reservarion-area form .form-inner .time-select {
   border-radius: 50px;
 }
 .h2-blog-card .blog-img {
@@ -7549,7 +7549,7 @@ footer .footer-btm .privacy-policy p a:hover {
   height: 34px;
   width: 34px;
   background-color: transparent;
-  border: 1px solid #e2a79d;
+  border: 1px solid var(--primary-color1);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -7559,12 +7559,12 @@ footer .footer-btm .privacy-policy p a:hover {
 .home3-testimonial .slider-btn .prev-btn-4 i,
 .home3-testimonial .slider-btn .next-btn-4 i {
   font-size: 30px;
-  color: #e2a79d;
+  color: var(--primary-color1);
   transition: 0.35s;
 }
 .home3-testimonial .slider-btn .prev-btn-4:hover,
 .home3-testimonial .slider-btn .next-btn-4:hover {
-  background-color: #e2a79d;
+  background-color: var(--primary-color1);
 }
 .home3-testimonial .slider-btn .prev-btn-4:hover i,
 .home3-testimonial .slider-btn .next-btn-4:hover i {
@@ -7918,7 +7918,7 @@ footer .footer-btm .privacy-policy p a:hover {
   z-index: 9;
   display: flex;
   align-items: center;
-  background-image: url(../images/bg/bredcumb-bg.webp);
+  background-image: url(../images/bg/bredcumb-bg.png);
   background-size: cover;
   padding: 260px 0 140px;
 }
@@ -7930,7 +7930,7 @@ footer .footer-btm .privacy-policy p a:hover {
       rgba(0, 0, 0, 0) 101.78%
     ),
     #09161d;
-  opacity: 0.2;
+  opacity: 0.8;
   position: absolute;
   left: 0;
   top: 0;
@@ -7988,7 +7988,7 @@ footer .footer-btm .privacy-policy p a:hover {
   font-family: var(--font-Jost);
 }
 .breadcrumb-section nav ol li a:hover {
-  color: #e2a79d;
+  color: var(--primary-color1);
 }
 .breadcrumb-section nav ol li.active {
   color: #e2a79d;
@@ -7997,7 +7997,7 @@ footer .footer-btm .privacy-policy p a:hover {
 }
 .breadcrumb-section .breadcrumb-item + .breadcrumb-item::before {
   padding-right: 0.5rem;
-  color: #e2a79d;
+  color: var(--primary-color1);
   content: "\f280";
   font-family: bootstrap-icons;
   font-size: 13px;
@@ -8474,7 +8474,7 @@ footer .footer-btm .privacy-policy p a:hover {
 .reservation-1 .section-title h2 {
   color: var(--white);
 }
-.reservation-1 form .form-group input {
+.reservation-1 form .form-inner input {
   width: 100%;
   background: #09161d;
   border: 1px solid rgba(238, 238, 238, 0.2);
@@ -8486,25 +8486,25 @@ footer .footer-btm .privacy-policy p a:hover {
   color: #fff;
   font-family: var(--font-Jost);
 }
-.reservation-1 form .form-group input::-moz-placeholder {
+.reservation-1 form .form-inner input::-moz-placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: #fff;
 }
-.reservation-1 form .form-group input:-ms-input-placeholder {
+.reservation-1 form .form-inner input:-ms-input-placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: #fff;
 }
-.reservation-1 form .form-group input::placeholder {
+.reservation-1 form .form-inner input::placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: #fff;
 }
-.reservation-1 form .form-group input:focus {
+.reservation-1 form .form-inner input:focus {
   border: 1px solid #bf9444;
 }
-.reservation-1 form .form-group button {
+.reservation-1 form .form-inner button {
   width: 100%;
   border-radius: 50px;
   background-color: var(--primary-color1);
@@ -8519,11 +8519,11 @@ footer .footer-btm .privacy-policy p a:hover {
   overflow: hidden;
 }
 @media (max-width: 767px) {
-  .reservation-1 form .form-group button {
+  .reservation-1 form .form-inner button {
     margin-top: 25px;
   }
 }
-.reservation-1 form .form-group button:before {
+.reservation-1 form .form-inner button:before {
   transition: 0.5s all ease;
   position: absolute;
   top: 0;
@@ -8535,28 +8535,28 @@ footer .footer-btm .privacy-policy p a:hover {
   background-color: var(--white);
   z-index: -1;
 }
-.reservation-1 form .form-group button:hover {
+.reservation-1 form .form-inner button:hover {
   color: var(--primary-color1);
 }
-.reservation-1 form .form-group button:hover i::before {
+.reservation-1 form .form-inner button:hover i::before {
   content: "\f134";
 }
-.reservation-1 form .form-group button:hover:before {
+.reservation-1 form .form-inner button:hover:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.reservation-1 form .form-group button:focus:before {
+.reservation-1 form .form-inner button:focus:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.reservation-1 form .form-group.date-icon {
+.reservation-1 form .form-inner.date-icon {
   position: relative;
 }
-.reservation-1 form .form-group.date-icon::after {
+.reservation-1 form .form-inner.date-icon::after {
   content: url(../images/icon/date.svg);
   position: absolute;
   right: 30px;
@@ -8564,7 +8564,7 @@ footer .footer-btm .privacy-policy p a:hover {
   transform: translateY(-50%);
   line-height: 1;
 }
-.reservation-1 form .form-group .time-select {
+.reservation-1 form .form-inner .time-select {
   border-radius: 50px;
 }
 .reservation-2 {
@@ -8602,7 +8602,7 @@ footer .footer-btm .privacy-policy p a:hover {
 .reservation-2 .section-title h2 {
   color: var(--white);
 }
-.reservation-2 form .form-group input {
+.reservation-2 form .form-inner input {
   width: 100%;
   background: rgba(9, 22, 29, 0.8);
   border: 1px solid rgba(238, 238, 238, 0.1);
@@ -8614,25 +8614,25 @@ footer .footer-btm .privacy-policy p a:hover {
   color: #fff;
   font-family: var(--font-Jost);
 }
-.reservation-2 form .form-group input::-moz-placeholder {
+.reservation-2 form .form-inner input::-moz-placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: #fff;
 }
-.reservation-2 form .form-group input:-ms-input-placeholder {
+.reservation-2 form .form-inner input:-ms-input-placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: #fff;
 }
-.reservation-2 form .form-group input::placeholder {
+.reservation-2 form .form-inner input::placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: #fff;
 }
-.reservation-2 form .form-group input:focus {
+.reservation-2 form .form-inner input:focus {
   border: 1px solid #bf9444;
 }
-.reservation-2 form .form-group button {
+.reservation-2 form .form-inner button {
   width: 100%;
   border-radius: 10px 0;
   background-color: var(--primary-color1);
@@ -8647,11 +8647,11 @@ footer .footer-btm .privacy-policy p a:hover {
   overflow: hidden;
 }
 @media (max-width: 767px) {
-  .reservation-2 form .form-group button {
+  .reservation-2 form .form-inner button {
     margin-top: 25px;
   }
 }
-.reservation-2 form .form-group button:before {
+.reservation-2 form .form-inner button:before {
   transition: 0.5s all ease;
   position: absolute;
   top: 0;
@@ -8663,28 +8663,28 @@ footer .footer-btm .privacy-policy p a:hover {
   background-color: var(--white);
   z-index: -1;
 }
-.reservation-2 form .form-group button:hover {
+.reservation-2 form .form-inner button:hover {
   color: var(--primary-color1);
 }
-.reservation-2 form .form-group button:hover i::before {
+.reservation-2 form .form-inner button:hover i::before {
   content: "\f134";
 }
-.reservation-2 form .form-group button:hover:before {
+.reservation-2 form .form-inner button:hover:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.reservation-2 form .form-group button:focus:before {
+.reservation-2 form .form-inner button:focus:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.reservation-2 form .form-group.date-icon {
+.reservation-2 form .form-inner.date-icon {
   position: relative;
 }
-.reservation-2 form .form-group.date-icon::after {
+.reservation-2 form .form-inner.date-icon::after {
   content: url(../images/icon/date.svg);
   position: absolute;
   right: 30px;
@@ -8856,13 +8856,13 @@ footer .footer-btm .privacy-policy p a:hover {
   }
 }
 .food-category-area .food-category-wrap .divider::after {
-  content: url(../images/icon/sub-title-vec.png);
+  content: url(../images/icon/sub-title-vec.svg);
   position: absolute;
   right: -9px;
   top: -30px;
 }
 .food-category-area .food-category-wrap .divider::before {
-  content: url(../images/icon/sub-title-vec.png);
+  content: url(../images/icon/sub-title-vec.svg);
   position: absolute;
   right: -9px;
   bottom: -35px;
@@ -9238,7 +9238,7 @@ footer .footer-btm .privacy-policy p a:hover {
   align-items: center;
   background: linear-gradient(
     359.58deg,
-    #e2a79d 0.39%,
+    #002133 0.39%,
     rgba(0, 33, 51, 0) 51.47%
   );
   border-radius: 10px;
@@ -11092,8 +11092,8 @@ footer .footer-btm .privacy-policy p a:hover {
     padding: 43px 25px 50px;
   }
 }
-.blog-details-pages .comments-area .comment-form form .form-group input,
-.blog-details-pages .comments-area .comment-form form .form-group textarea {
+.blog-details-pages .comments-area .comment-form form .form-inner input,
+.blog-details-pages .comments-area .comment-form form .form-inner textarea {
   width: 100%;
   border: none;
   background: #faf7f7;
@@ -11103,22 +11103,22 @@ footer .footer-btm .privacy-policy p a:hover {
   color: var(--text-color1);
   padding: 15px 20px;
 }
-.blog-details-pages .comments-area .comment-form form .form-group input:focus,
+.blog-details-pages .comments-area .comment-form form .form-inner input:focus,
 .blog-details-pages
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   textarea:focus {
   border: 1px solid rgba(191, 148, 68, 0.5);
 }
-.blog-details-pages .comments-area .comment-form form .form-group input {
+.blog-details-pages .comments-area .comment-form form .form-inner input {
   height: 55px;
 }
-.blog-details-pages .comments-area .comment-form form .form-group textarea {
+.blog-details-pages .comments-area .comment-form form .form-inner textarea {
   min-height: 120px;
 }
-.blog-details-pages .comments-area .comment-form form .form-group button {
+.blog-details-pages .comments-area .comment-form form .form-inner button {
   z-index: 2;
   transition: 0.3s ease all;
   position: relative;
@@ -11128,7 +11128,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button:before {
   transition: 0.5s all ease;
   position: absolute;
@@ -11141,14 +11141,14 @@ footer .footer-btm .privacy-policy p a:hover {
   background-color: var(--title-color-dark);
   z-index: -1;
 }
-.blog-details-pages .comments-area .comment-form form .form-group button:hover {
+.blog-details-pages .comments-area .comment-form form .form-inner button:hover {
   color: var(--white);
 }
 .blog-details-pages
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button:hover
   i::before {
   content: "\f134";
@@ -11157,7 +11157,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button:hover:before {
   transition: 0.5s all ease;
   left: 0;
@@ -11168,18 +11168,18 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button:focus:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.blog-details-pages .comments-area .comment-form form .form-group2 {
+.blog-details-pages .comments-area .comment-form form .form-inner2 {
   display: flex;
   align-items: baseline;
 }
-.blog-details-pages .comments-area .comment-form form .form-group2 input {
+.blog-details-pages .comments-area .comment-form form .form-inner2 input {
   margin-right: 5px;
 }
 .faq-area {
@@ -11439,7 +11439,7 @@ footer .footer-btm .privacy-policy p a:hover {
   color: var(--primary-color1);
 }
 .contact-form {
-  background-image: url(../images/bg/reservation-1-bg.jpg);
+  background-image: url(../images/bg/reservation-1-bg.png);
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11479,8 +11479,8 @@ footer .footer-btm .privacy-policy p a:hover {
 .contact-form .section-title h2 {
   color: var(--white);
 }
-.contact-form form .form-group input,
-.contact-form form .form-group textarea {
+.contact-form form .form-inner input,
+.contact-form form .form-inner textarea {
   width: 100%;
   background: rgba(9, 22, 29, 0.6);
   border: 1px solid rgba(238, 238, 238, 0.1);
@@ -11492,36 +11492,36 @@ footer .footer-btm .privacy-policy p a:hover {
   color: rgba(255, 255, 255, 0.5);
   font-family: var(--font-Jost);
 }
-.contact-form form .form-group input::-moz-placeholder,
-.contact-form form .form-group textarea::-moz-placeholder {
+.contact-form form .form-inner input::-moz-placeholder,
+.contact-form form .form-inner textarea::-moz-placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.5);
 }
-.contact-form form .form-group input:-ms-input-placeholder,
-.contact-form form .form-group textarea:-ms-input-placeholder {
+.contact-form form .form-inner input:-ms-input-placeholder,
+.contact-form form .form-inner textarea:-ms-input-placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.5);
 }
-.contact-form form .form-group input::placeholder,
-.contact-form form .form-group textarea::placeholder {
+.contact-form form .form-inner input::placeholder,
+.contact-form form .form-inner textarea::placeholder {
   font-size: 1rem;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.5);
 }
-.contact-form form .form-group input:focus,
-.contact-form form .form-group textarea:focus {
+.contact-form form .form-inner input:focus,
+.contact-form form .form-inner textarea:focus {
   border: 1px solid rgba(191, 148, 68, 0.5);
 }
-.contact-form form .form-group textarea {
+.contact-form form .form-inner textarea {
   height: unset;
   min-height: 200px;
 }
-.contact-form form .form-group button {
+.contact-form form .form-inner button {
   width: 100%;
   border-radius: 10px 0;
-  background-color: #e2a79d;
+  background-color: var(--primary-color1);
   font-size: 1.125rem;
   font-weight: 500;
   color: var(--white);
@@ -11533,11 +11533,11 @@ footer .footer-btm .privacy-policy p a:hover {
   overflow: hidden;
 }
 @media (max-width: 767px) {
-  .contact-form form .form-group button {
+  .contact-form form .form-inner button {
     margin-top: 25px;
   }
 }
-.contact-form form .form-group button:before {
+.contact-form form .form-inner button:before {
   transition: 0.5s all ease;
   position: absolute;
   top: 0;
@@ -11549,28 +11549,28 @@ footer .footer-btm .privacy-policy p a:hover {
   background-color: var(--white);
   z-index: -1;
 }
-.contact-form form .form-group button:hover {
-  color: #e2a79d;
+.contact-form form .form-inner button:hover {
+  color: var(--primary-color1);
 }
-.contact-form form .form-group button:hover i::before {
+.contact-form form .form-inner button:hover i::before {
   content: "\f134";
 }
-.contact-form form .form-group button:hover:before {
+.contact-form form .form-inner button:hover:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.contact-form form .form-group button:focus:before {
+.contact-form form .form-inner button:focus:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.contact-form form .form-group.date-icon {
+.contact-form form .form-inner.date-icon {
   position: relative;
 }
-.contact-form form .form-group.date-icon::after {
+.contact-form form .form-inner.date-icon::after {
   content: url(../images/icon/date.svg);
   position: absolute;
   right: 30px;
@@ -11578,20 +11578,20 @@ footer .footer-btm .privacy-policy p a:hover {
   transform: translateY(-50%);
   line-height: 1;
 }
-.contact-form form .form-group2 {
+.contact-form form .form-inner2 {
   padding-top: 12px;
   display: flex;
   align-items: baseline;
 }
-.contact-form form .form-group2 input {
+.contact-form form .form-inner2 input {
   margin-right: 5px;
 }
-.contact-form form .form-group2 label {
+.contact-form form .form-inner2 label {
   font-size: 1.125rem;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.8);
 }
-.contact-form form .form-group2 input[type="checkboxi"] {
+.contact-form form .form-inner2 input[type="checkboxi"] {
   background-color: var(--primary-color1);
 }
 .contact-map iframe {
@@ -12147,13 +12147,13 @@ footer .footer-btm .privacy-policy p a:hover {
     padding: 43px 25px 50px;
   }
 }
-.shop-details .tab-content2 .comments-area .comment-form form .form-group input,
+.shop-details .tab-content2 .comments-area .comment-form form .form-inner input,
 .shop-details
   .tab-content2
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   textarea {
   width: 100%;
   border: none;
@@ -12169,14 +12169,14 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   input:focus,
 .shop-details
   .tab-content2
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   textarea:focus {
   border: 1px solid rgba(191, 148, 68, 0.5);
 }
@@ -12185,7 +12185,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   input {
   height: 55px;
 }
@@ -12194,7 +12194,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   textarea {
   min-height: 120px;
 }
@@ -12203,7 +12203,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button {
   z-index: 2;
   transition: 0.3s ease all;
@@ -12215,7 +12215,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button:before {
   transition: 0.5s all ease;
   position: absolute;
@@ -12233,7 +12233,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button:hover {
   color: var(--white);
 }
@@ -12242,7 +12242,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button:hover
   i::before {
   content: "\f134";
@@ -12252,7 +12252,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button:hover:before {
   transition: 0.5s all ease;
   left: 0;
@@ -12264,14 +12264,14 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group
+  .form-inner
   button:focus:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
   opacity: 1;
 }
-.shop-details .tab-content2 .comments-area .comment-form form .form-group2 {
+.shop-details .tab-content2 .comments-area .comment-form form .form-inner2 {
   display: flex;
   align-items: baseline;
 }
@@ -12280,7 +12280,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   input {
   margin-right: 5px;
 }
@@ -12289,7 +12289,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   p {
   margin-bottom: 0;
@@ -12303,7 +12303,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate {
   float: left;
@@ -12313,7 +12313,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate:not(:checked)
   > input {
@@ -12325,7 +12325,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate:not(:checked)
   > label {
@@ -12343,7 +12343,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate:not(:checked)
   > label:before {
@@ -12354,7 +12354,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate
   > input:checked
@@ -12366,7 +12366,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate:not(:checked)
   > label:hover,
@@ -12375,7 +12375,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate:not(:checked)
   > label:hover
@@ -12387,7 +12387,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate
   > input:checked
@@ -12397,7 +12397,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate
   > input:checked
@@ -12408,7 +12408,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate
   > input:checked
@@ -12418,7 +12418,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate
   > input:checked
@@ -12429,7 +12429,7 @@ footer .footer-btm .privacy-policy p a:hover {
   .comments-area
   .comment-form
   form
-  .form-group2
+  .form-inner2
   .comment-rate-area
   .rate
   > label:hover
@@ -12868,7 +12868,7 @@ footer .footer-btm .privacy-policy p a:hover {
 .form-wrap.form-wrap2 {
   padding: unset;
 }
-.form-wrap .form-group {
+.form-wrap .form-inner {
   margin-bottom: 25px;
 }
 .form-wrap input,
@@ -12922,10 +12922,10 @@ footer .footer-btm .privacy-policy p a:hover {
   color: var(--title-color-dark);
   text-transform: capitalize;
 }
-.checkout-section .form-wrap .form-group {
+.checkout-section .form-wrap .form-inner {
   margin-bottom: 25px;
 }
-.checkout-section .form-wrap .form-group label {
+.checkout-section .form-wrap .form-inner label {
   margin-bottom: 0.875rem;
   font-size: 14px;
   font-weight: 500;
@@ -12933,8 +12933,8 @@ footer .footer-btm .privacy-policy p a:hover {
   margin-bottom: 10px;
   font-family: var(--font-Jost);
 }
-.checkout-section .form-wrap .form-group input,
-.checkout-section .form-wrap .form-group select {
+.checkout-section .form-wrap .form-inner input,
+.checkout-section .form-wrap .form-inner select {
   display: block;
   border: 1px solid #eee;
   border-radius: 5px;
@@ -12947,7 +12947,7 @@ footer .footer-btm .privacy-policy p a:hover {
   color: #848484;
   font-family: var(--font-Jost);
 }
-.checkout-section .form-wrap .form-group select {
+.checkout-section .form-wrap .form-inner select {
   display: block;
   border: 1px solid #eee;
   border-radius: 5px;
@@ -12957,7 +12957,7 @@ footer .footer-btm .privacy-policy p a:hover {
   width: 100%;
   transition: 0.3s ease;
 }
-.checkout-section .form-wrap .form-group .nice-select {
+.checkout-section .form-wrap .form-inner .nice-select {
   width: 100%;
   height: 50px;
   float: none;
@@ -12966,16 +12966,16 @@ footer .footer-btm .privacy-policy p a:hover {
   color: #848484;
   font-family: var(--font-Jost);
 }
-.checkout-section .form-wrap .form-group .nice-select:hover {
+.checkout-section .form-wrap .form-inner .nice-select:hover {
   border: 1px solid #eee;
 }
-.checkout-section .form-wrap .form-group .nice-select .list {
+.checkout-section .form-wrap .form-inner .nice-select .list {
   width: 100%;
 }
-.checkout-section .form-wrap .form-group .nice-select .list li {
+.checkout-section .form-wrap .form-inner .nice-select .list li {
   background-color: rgba(191, 148, 68, 0.1);
 }
-.checkout-section .form-wrap .form-group textarea {
+.checkout-section .form-wrap .form-inner textarea {
   padding: 20px;
   background: #fff;
   border-radius: 5px;
