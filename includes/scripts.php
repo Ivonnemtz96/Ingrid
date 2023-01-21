@@ -15,3 +15,6 @@
 <script src="/assets/js/imagesloaded.pkgd.js"></script>
 <script src="/assets/js/masonry.pkgd.min.js"></script>
 <script src="/assets/js/main.js"></script>
+
+<!-- font awesome -->
+<script src="https://kit.fontawesome.com/e631eca424.js" crossorigin="anonymous"></script>

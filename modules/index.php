@@ -176,7 +176,7 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/h2-regular-items11.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/consulta.png" alt="">
 
                             </div>
                             <div class="reguler-items-content">
@@ -194,7 +194,7 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/papanicolau.png?=1" alt="">
+                                <img class="img-fluid" src="assets/images/bg/menopausia.png?=1" alt="">
 
                             </div>
                             <div class="reguler-items-content">
@@ -233,7 +233,7 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/1.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/preparacion.png" alt="">
 
                             </div>
                             <div class="reguler-items-content">
@@ -253,7 +253,7 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/control.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/control.png?=1" alt="">
 
                             </div>
                             <div class="reguler-items-content">
@@ -293,7 +293,7 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/climaterio.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/climaterio.png?=1" alt="">
 
                             </div>
                             <div class="reguler-items-content">
@@ -313,7 +313,7 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/menopausia.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/meno.png?=1" alt="">
 
                             </div>
                             <div class="reguler-items-content">
@@ -472,7 +472,7 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/3.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/cesarea.png" alt="">
 
                             </div>
                             <div class="reguler-items-content">
@@ -526,7 +526,7 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/4.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/parto.png?=1" alt="">
 
                             </div>
                             <div class="reguler-items-content">
