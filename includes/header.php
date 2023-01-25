@@ -27,7 +27,7 @@
     <div class="container-fluid d-flex justify-content-between
                 align-items-center">
         <div class="header-logo">
-            <a href="/"><img alt="image" class="" src="/assets/images/logo.png"></a>
+            <a href="/"><img alt="image" class="img-fluid" src="/assets/images/logo.png"></a>
         </div>
         <div class="main-menu">
             <div class="mobile-logo-area d-lg-none d-flex

@@ -490,13 +490,13 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/histerectomia.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/histerectomia.png?=1" alt="">
 
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
                                     <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
-                                        Histerectomias
+                                        Histerectomías
                                     </a>
                                 </h3>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
@@ -508,13 +508,13 @@
                     <div class="swiper-slide">
                         <div class="reguler-items-wrap">
                             <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/miomectomia.png" alt="">
+                                <img class="img-fluid" src="assets/images/bg/miomectomia.png?=1" alt="">
 
                             </div>
                             <div class="reguler-items-content">
                                 <h3>
                                     <a target="_blank" href="https://wa.me/+526241328278?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
-                                        Miomectomia
+                                        Miomectomía
                                     </a>
                                 </h3>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam perferendis
@@ -584,7 +584,7 @@
                                     <img src="assets/images/bg/h3-testi-03.png" alt="h3-testi-03" />
                                 </div>
                                 <div class="name-review">
-                                    <h5>Mr. Jacobs Jack</h5>
+                                    <h5>Cliente 1</h5>
                                     <ul>
                                         <li>
                                             <img src="assets/images/icon/Star2.svg" alt="Star2" />
@@ -619,7 +619,7 @@
                                     <img src="assets/images/bg/h3-testi-01.png" alt="h3-testi-03" />
                                 </div>
                                 <div class="name-review">
-                                    <h5>Mr. Willium Jacobs</h5>
+                                    <h5>Cliente 2</h5>
                                     <ul>
                                         <li>
                                             <img src="assets/images/icon/Star2.svg" alt="Star2" />
@@ -654,7 +654,7 @@
                                     <img src="assets/images/bg/h3-testi-02.png" alt="h3-testi-03" />
                                 </div>
                                 <div class="name-review">
-                                    <h5>Mrs. Angelina Juli</h5>
+                                    <h5>Cliente 3</h5>
                                     <ul>
                                         <li>
                                             <img src="assets/images/icon/Star2.svg" alt="Star2" />
