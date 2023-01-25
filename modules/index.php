@@ -554,7 +554,7 @@
     </div>
 </div>
 
-<div class="home3-testimonial mb-120">
+<div hidden class="home3-testimonial mb-120">
     <div class="container">
         <div class="row justify-content-center mb-45">
             <div class="col-lg-8">
